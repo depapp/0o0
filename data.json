@@ -1,0 +1,7930 @@
+[
+  {
+    "rank": 1,
+    "name": "Sandhika Galih",
+    "login": "sandhikagalih",
+    "contributions": 71,
+    "company": "Pasundan University Bandung",
+    "organizations": "bellshade"
+  },
+  {
+    "rank": 2,
+    "name": "Siswanto",
+    "login": "Sings168",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 3,
+    "name": "Eko Kurniawan Khannedy",
+    "login": "khannedy",
+    "contributions": 1159,
+    "company": "",
+    "organizations": "bliblidotcom"
+  },
+  {
+    "rank": 4,
+    "name": "Sonny Lazuardi",
+    "login": "sonnylazuardi",
+    "contributions": 103,
+    "company": "@grab",
+    "organizations": ""
+  },
+  {
+    "rank": 5,
+    "name": "Irfan Maulana",
+    "login": "mazipan",
+    "contributions": 2608,
+    "company": "",
+    "organizations": "vuejs-id,nodejs-indonesia,angular-indonesia,phpid-jakarta,kawalcovid19"
+  },
+  {
+    "rank": 6,
+    "name": "Rahmat Nurfauzi",
+    "login": "infosecn1nja",
+    "contributions": 32,
+    "company": "Xynexis",
+    "organizations": ""
+  },
+  {
+    "rank": 7,
+    "name": "",
+    "login": "phanatagama",
+    "contributions": 2493,
+    "company": "Vengeful Ghost",
+    "organizations": "collective,hackclub,NVIDIAGameWorks,jazzband,fnplus,thank-you-php,risk-first,BugHunterID,dev-protocol,Pemrograman-Fasilkom-Unej,Chinuon,Tech-Phantoms,EddieHubCommunity,cloudcommunity,golang-friends,CodXCrypt,CodeAvailable,SurPathHub,Alphasians,EquiCode,chryz-hub,BITDurg-git,naomis-novas,Design-and-Code,Coders-Evoke-Community,CodeVisors,CURAJ-Open-Source-Community,The-CODE-Plus-Plus-Community,tinderzone,OpInCo-Community,Jaidevstudio,Eaglion-Programmers,WebXDAO,Bauddhik-Geeks,Robotics-Club-BMU,Media-Kreasi-Abadi,bemilkomunej,tzztson-federation"
+  },
+  {
+    "rank": 8,
+    "name": "Dea Aprizal",
+    "login": "deaaprizal",
+    "contributions": 251,
+    "company": "Cuy Universe ~",
+    "organizations": ""
+  },
+  {
+    "rank": 9,
+    "name": "Odi",
+    "login": "mathdroid",
+    "contributions": 199,
+    "company": "@on-deck",
+    "organizations": ""
+  },
+  {
+    "rank": 10,
+    "name": "Noval Agung Prayogo",
+    "login": "novalagung",
+    "contributions": 2586,
+    "company": "CTO @ KangarooHealth Inc.",
+    "organizations": "solaris18,kalipare,krakend-contrib,adamstudiogh"
+  },
+  {
+    "rank": 11,
+    "name": "Dwi Siswanto",
+    "login": "dwisiswant0",
+    "contributions": 1682,
+    "company": "@kitabisa",
+    "organizations": "kitabisa"
+  },
+  {
+    "rank": 12,
+    "name": "Hendi Santika",
+    "login": "hendisantika",
+    "contributions": 15495,
+    "company": "@JVMDeveloperID @KotlinID @IDDevOps",
+    "organizations": "idtamkin,JUG-Indonesia,jvmdeveloperid,IDDevOps,KominfoPemudaPersis,KotlinID,MathlaAstroClub,GTILabs"
+  },
+  {
+    "rank": 13,
+    "name": "Faqihza Mukhlish",
+    "login": "faqihza",
+    "contributions": 206,
+    "company": "@kelasterbuka",
+    "organizations": "kelasterbuka"
+  },
+  {
+    "rank": 14,
+    "name": "Alfian Losari",
+    "login": "alfianlosari",
+    "contributions": 371,
+    "company": "Alfian Losari",
+    "organizations": "gojek"
+  },
+  {
+    "rank": 15,
+    "name": "Saugi",
+    "login": "zuramai",
+    "contributions": 3703,
+    "company": "",
+    "organizations": "stisla,devoverid,webtechindonesia"
+  },
+  {
+    "rank": 16,
+    "name": "M Haidar Hanif",
+    "login": "mhaidarhanif",
+    "contributions": 2695,
+    "company": "@catamyst @bearmentor",
+    "organizations": "catamyst,opensourcedesign,bearmentor,dwyl,haidar-dev,catamyst-community"
+  },
+  {
+    "rank": 17,
+    "name": "Endy Muhardin",
+    "login": "endymuhardin",
+    "contributions": 84,
+    "company": "ArtiVisi Intermedia",
+    "organizations": "artivisi"
+  },
+  {
+    "rank": 18,
+    "name": "水無月 MINAZUKI",
+    "login": "renbooo",
+    "contributions": 3,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 19,
+    "name": "Riza Fahmi",
+    "login": "rizafahmi",
+    "contributions": 235,
+    "company": "@hacktiv8",
+    "organizations": ""
+  },
+  {
+    "rank": 20,
+    "name": "Muhammad Daffa",
+    "login": "daffainfo",
+    "contributions": 359,
+    "company": "spiderSilk",
+    "organizations": ""
+  },
+  {
+    "rank": 21,
+    "name": "Ganis Zulfa Santoso",
+    "login": "ganiszulfa",
+    "contributions": 66,
+    "company": "Blibli",
+    "organizations": ""
+  },
+  {
+    "rank": 22,
+    "name": "Imre Nagi",
+    "login": "imrenagi",
+    "contributions": 196,
+    "company": "Gojek",
+    "organizations": ""
+  },
+  {
+    "rank": 23,
+    "name": "Ms.ambari",
+    "login": "Ranginang67",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 24,
+    "name": "Indonesia IT☑",
+    "login": "pashayogi",
+    "contributions": 39,
+    "company": "@pranata_pasha",
+    "organizations": ""
+  },
+  {
+    "rank": 25,
+    "name": "Theodorus Clarence",
+    "login": "theodorusclarence",
+    "contributions": 2712,
+    "company": "",
+    "organizations": "dimensionhq"
+  },
+  {
+    "rank": 26,
+    "name": "yohanesnuwara",
+    "login": "yohanesnuwara",
+    "contributions": 97,
+    "company": "Asia Pulp & Paper",
+    "organizations": "terra-analitika"
+  },
+  {
+    "rank": 27,
+    "name": "NIOMIC",
+    "login": "niomic-id",
+    "contributions": 0,
+    "company": "PT. CERDASKAN GENERASI BANGSA",
+    "organizations": ""
+  },
+  {
+    "rank": 28,
+    "name": "NullFeel Dev",
+    "login": "nullfeel",
+    "contributions": 0,
+    "company": "Universitas Informatika dan Bisnis Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 29,
+    "name": "Angga Risky",
+    "login": "anggarisky",
+    "contributions": 267,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 30,
+    "name": "Gun Gun Febrianza",
+    "login": "gungunfebrianza",
+    "contributions": 1,
+    "company": "PT Rantai Oxygen Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 31,
+    "name": "Muh Isfhani Ghiath",
+    "login": "isfaaghyth",
+    "contributions": 783,
+    "company": "@tokopedia",
+    "organizations": "EpicGames,NVIDIAGameWorks,tokopedia,AndroidDeveloperBandung,gdgindonesia,abraincode,react-native-id,mudengclub,daeng-id,pemirasttnf,yukhijrah,dsc-id,hackartini,halalin-asia,seirama,Spensav,relieve-id,kpmks,sanggar-id,android-vip-id,kepul-id"
+  },
+  {
+    "rank": 32,
+    "name": "Ferdina Kusumah",
+    "login": "FerdinaKusumah",
+    "contributions": 629,
+    "company": "Remote - Mostly in",
+    "organizations": "sanic-org"
+  },
+  {
+    "rank": 33,
+    "name": "zlucifer",
+    "login": "zlucifer",
+    "contributions": 0,
+    "company": "Propaganda Team",
+    "organizations": ""
+  },
+  {
+    "rank": 34,
+    "name": "",
+    "login": "nauvalazhar",
+    "contributions": 479,
+    "company": "",
+    "organizations": "itskodinger,stisla"
+  },
+  {
+    "rank": 35,
+    "name": "Resi Respati",
+    "login": "resir014",
+    "contributions": 495,
+    "company": "@typedreamhq",
+    "organizations": "reactjs,bemusic,tildetown,reactjs-id,screepers,blvdgroup,warungpintar,spicy-ui,kawalcovid19"
+  },
+  {
+    "rank": 36,
+    "name": "Enjel Hutasoit",
+    "login": "enjelhutasoit",
+    "contributions": 0,
+    "company": "Telkom Indonesia",
+    "organizations": "enjelhutasoit-pro"
+  },
+  {
+    "rank": 37,
+    "name": "Azhar Rivaldi",
+    "login": "AzharRivaldi",
+    "contributions": 74,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 38,
+    "name": "Abdul Aziz Ahwan",
+    "login": "abdulazizahwan",
+    "contributions": 213,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 39,
+    "name": "Rei Ryuki",
+    "login": "reiryuki",
+    "contributions": 2415,
+    "company": "Android Ryuki Mods",
+    "organizations": "PixelGapps"
+  },
+  {
+    "rank": 40,
+    "name": "Didin Jamaludin",
+    "login": "didinj",
+    "contributions": 89,
+    "company": "Djamware",
+    "organizations": ""
+  },
+  {
+    "rank": 41,
+    "name": "Galih Pratama",
+    "login": "galpratama",
+    "contributions": 1583,
+    "company": "2Viz, BelajarKoding",
+    "organizations": "belajarkoding,reactjs-id"
+  },
+  {
+    "rank": 42,
+    "name": "Abdul Malik Ikhsan",
+    "login": "samsonasik",
+    "contributions": 6075,
+    "company": "Sitrun Technologies",
+    "organizations": "Eye4web,sitrunlab,pennyphp,symplify,rectorphp,codeigniter4,laminas,laminas-tutorials,mezzio,laminas-api-tools"
+  },
+  {
+    "rank": 43,
+    "name": "Alauddin Afif Cassandra",
+    "login": "aacassandra",
+    "contributions": 3031,
+    "company": "Pekerja Enjoy",
+    "organizations": "musketeers-labs,ql-labs,Alfa-Digital-Solution,core-technologies-id"
+  },
+  {
+    "rank": 44,
+    "name": "Faisal Amir",
+    "login": "amirisback",
+    "contributions": 5933,
+    "company": "@frogobox",
+    "organizations": "D3IF-Cool,frogobox,GanymedeNuby,Suncodeid,100daycode,caravancodes,rk-griya-santika,monaprimaveras,xeonidas-xcreator,mnia-media,armorycodes"
+  },
+  {
+    "rank": 45,
+    "name": "Sidiq Permana",
+    "login": "sidiqpermana",
+    "contributions": 19,
+    "company": "Nusantara Beta Studio",
+    "organizations": ""
+  },
+  {
+    "rank": 46,
+    "name": "Dendi Suhubdy",
+    "login": "dendisuhubdy",
+    "contributions": 1221,
+    "company": "@bitwyre",
+    "organizations": "bitwyre,mila-iqia,deeptechlabs,grokvideo,darkpools"
+  },
+  {
+    "rank": 47,
+    "name": "Dicha Zelianivan Arkana",
+    "login": "elianiva",
+    "contributions": 2258,
+    "company": "State Polytechnic of Malang",
+    "organizations": "wrideveloper,nvim-telescope,teknologi-umum,monoteam-co,TokoBapak"
+  },
+  {
+    "rank": 48,
+    "name": "Ican Bachors",
+    "login": "bachors",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 49,
+    "name": "Ahmad Muhardian",
+    "login": "ardianta",
+    "contributions": 1023,
+    "company": "@petanikode",
+    "organizations": "petanikode,kblbumigora,LombokDev,gohugoid,lombokjs,Loteng-Dev"
+  },
+  {
+    "rank": 50,
+    "name": "Joy",
+    "login": "MhankBarBar",
+    "contributions": 1024,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 51,
+    "name": "RiN",
+    "login": "r17x",
+    "contributions": 785,
+    "company": "@eFishery",
+    "organizations": "reactjs-id,eFishery,evilfactorylabs,KomuNix"
+  },
+  {
+    "rank": 52,
+    "name": "Hilman Ramadhan",
+    "login": "hilmanski",
+    "contributions": 3817,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 53,
+    "name": "Dapunta ID",
+    "login": "Dapunta",
+    "contributions": 80,
+    "company": "Xayonara Indonesia Corp.",
+    "organizations": ""
+  },
+  {
+    "rank": 54,
+    "name": "Master Kurniawan",
+    "login": "kurniawandata",
+    "contributions": 173,
+    "company": "CEO & Senior Security Engineer",
+    "organizations": ""
+  },
+  {
+    "rank": 55,
+    "name": "Nafies Luthfi",
+    "login": "nafiesl",
+    "contributions": 2140,
+    "company": "",
+    "organizations": "buku-masjid,KomunitasPetisi"
+  },
+  {
+    "rank": 56,
+    "name": "Lintang Wisesa",
+    "login": "LintangWisesa",
+    "contributions": 21,
+    "company": "Smartfren",
+    "organizations": "Unafeed,simplinnovation,Roster-ID,Bibox-ID,Nutrahome"
+  },
+  {
+    "rank": 57,
+    "name": "Sean Matheson",
+    "login": "ctrlplusb",
+    "contributions": 546,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 58,
+    "name": "Rayhan Pratama",
+    "login": "rxyhn",
+    "contributions": 619,
+    "company": "Akagami Kaizokudan",
+    "organizations": ""
+  },
+  {
+    "rank": 59,
+    "name": "Samuel Chan",
+    "login": "onlyphantom",
+    "contributions": 1032,
+    "company": "@teamalgoritma @supertypeai",
+    "organizations": "teamalgoritma"
+  },
+  {
+    "rank": 60,
+    "name": "kumpulanremaja.com",
+    "login": "kumpulanremaja",
+    "contributions": 58,
+    "company": "Kumpulan Remaja",
+    "organizations": ""
+  },
+  {
+    "rank": 61,
+    "name": "Deray",
+    "login": "LOoLzeC",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 62,
+    "name": "go2ismail",
+    "login": "go2ismail",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 63,
+    "name": "Giri Kuncoro",
+    "login": "girikuncoro",
+    "contributions": 105,
+    "company": "@gojek",
+    "organizations": ""
+  },
+  {
+    "rank": 64,
+    "name": "Sugeng Tigefa",
+    "login": "tigefa4u",
+    "contributions": 674,
+    "company": "",
+    "organizations": "GitIndonesia,17agustus,docker-vnc"
+  },
+  {
+    "rank": 65,
+    "name": "",
+    "login": "Nurutomo",
+    "contributions": 12,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 66,
+    "name": "Moe Poi ~",
+    "login": "moepoi",
+    "contributions": 884,
+    "company": "@GNUWeeb @TeaInside @animenotifier",
+    "organizations": "animenotifier,TeaInside,Kizu-API,MisakiShokuhou,Mizuhara-Chizuru,GNUWeeb,Nekoya-Site"
+  },
+  {
+    "rank": 67,
+    "name": "Fariz Ramadhan",
+    "login": "farizdotid",
+    "contributions": 61,
+    "company": "https://www.vodjo.com/",
+    "organizations": ""
+  },
+  {
+    "rank": 68,
+    "name": "Angga Dwi Arifandi",
+    "login": "blackmenthor",
+    "contributions": 347,
+    "company": "ING",
+    "organizations": ""
+  },
+  {
+    "rank": 69,
+    "name": "Ammar Faizi",
+    "login": "ammarfaizi2",
+    "contributions": 969,
+    "company": "@TeaInside @llvm @GNUWeeb",
+    "organizations": "llvm,phpid-jakarta,laravelindonesia,TeaInside,thank-you-php,KylaAI"
+  },
+  {
+    "rank": 70,
+    "name": "Go Frendi Gunawan",
+    "login": "goFrendiAsgard",
+    "contributions": 2192,
+    "company": "@machwatch",
+    "organizations": "indonesia"
+  },
+  {
+    "rank": 71,
+    "name": "Josua Bonardo Marasi , S.E",
+    "login": "JosuaSitorus",
+    "contributions": 3,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 72,
+    "name": "Gulajava Ministudio",
+    "login": "GulajavaMinistudio",
+    "contributions": 6970,
+    "company": "@TypescriptID @javascript-indonesias @angular-indonesia @A",
+    "organizations": ""
+  },
+  {
+    "rank": 73,
+    "name": "Elmo",
+    "login": "elmoallistair",
+    "contributions": 83,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 74,
+    "name": "Naufaldi",
+    "login": "naufaldi",
+    "contributions": 127,
+    "company": "eFishery",
+    "organizations": "komunitas-uinmaliki,nmdlnd,Logos-Engineering"
+  },
+  {
+    "rank": 75,
+    "name": "꧁༒︎AlvinoXy༒︎꧂",
+    "login": "Al-Vino",
+    "contributions": 60,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 76,
+    "name": "Fauzan",
+    "login": "fzn0x",
+    "contributions": 1272,
+    "company": "@BlockchainSpace-Dev",
+    "organizations": "sequelize,devoverid,BlockchainSpace-Dev"
+  },
+  {
+    "rank": 77,
+    "name": "Griko Nibras",
+    "login": "grikomsn",
+    "contributions": 1236,
+    "company": "@graz-sh @kodingdotninja",
+    "organizations": "reactjs,surabayajs,PeggyJV,kodingdotninja,graz-sh"
+  },
+  {
+    "rank": 78,
+    "name": "R. Rifa Fauzi Komara",
+    "login": "rrifafauzikomara",
+    "contributions": 32,
+    "company": "@grab",
+    "organizations": "DSCPoltekpos"
+  },
+  {
+    "rank": 79,
+    "name": "Maxi Aditya Kusuma",
+    "login": "tustoz",
+    "contributions": 31,
+    "company": "Calvin Institute of Technology",
+    "organizations": ""
+  },
+  {
+    "rank": 80,
+    "name": "taqin",
+    "login": "fdciabdul",
+    "contributions": 45944,
+    "company": "Heaven Inc.",
+    "organizations": "tegal1337,code-charity"
+  },
+  {
+    "rank": 81,
+    "name": "Faiz Jazadi",
+    "login": "p4kl0nc4t",
+    "contributions": 288,
+    "company": "",
+    "organizations": "jazzband,TeaInside,OmahTI-UGM,GNUWeeb"
+  },
+  {
+    "rank": 82,
+    "name": "Gading Nasution",
+    "login": "gadingnst",
+    "contributions": 2223,
+    "company": "",
+    "organizations": "ituslab,evilfactorylabs,sutanlab"
+  },
+  {
+    "rank": 83,
+    "name": "Haerul Muttaqin",
+    "login": "haerulmuttaqin",
+    "contributions": 146,
+    "company": "pasbe.id",
+    "organizations": ""
+  },
+  {
+    "rank": 84,
+    "name": "Dani Mahardhika",
+    "login": "danimahardhika",
+    "contributions": 0,
+    "company": "",
+    "organizations": "bukalapak"
+  },
+  {
+    "rank": 85,
+    "name": "Antony Budianto",
+    "login": "antonybudianto",
+    "contributions": 205,
+    "company": "",
+    "organizations": "falcronio,bluejack13,ngstarter,andro2d,angular-indonesia"
+  },
+  {
+    "rank": 86,
+    "name": "Dimas Maulana Dwi Saputra",
+    "login": "dimasmds",
+    "contributions": 1670,
+    "company": "@dicodingacademy",
+    "organizations": "dicodingacademy"
+  },
+  {
+    "rank": 87,
+    "name": "Ihwan",
+    "login": "IhwanID",
+    "contributions": 30,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 88,
+    "name": "Seya",
+    "login": "sglkc",
+    "contributions": 675,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 89,
+    "name": "Hengki Sihombing",
+    "login": "hengkiardo",
+    "contributions": 20,
+    "company": "",
+    "organizations": "nodeschool,jakartajs,dwyl,deeptechid"
+  },
+  {
+    "rank": 90,
+    "name": "Dimas Miftahul Huda",
+    "login": "dimasmiftah",
+    "contributions": 587,
+    "company": "@cermati",
+    "organizations": ""
+  },
+  {
+    "rank": 91,
+    "name": "GєṭRєҡṭBȏʏ724",
+    "login": "GetRektBoy724",
+    "contributions": 31,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 92,
+    "name": "Yohan Totting",
+    "login": "tyohan",
+    "contributions": 306,
+    "company": "tyohan.dev",
+    "organizations": ""
+  },
+  {
+    "rank": 93,
+    "name": "Wahyu Kristianto",
+    "login": "Kristories",
+    "contributions": 2711,
+    "company": "@devtical",
+    "organizations": "indonesia,phpindonesia,IDMUG,NoSQLIndonesia,devtical"
+  },
+  {
+    "rank": 94,
+    "name": "Sabda PS",
+    "login": "squest",
+    "contributions": 431,
+    "company": "Zenius Education",
+    "organizations": "zeniuseducation,Zenius2016"
+  },
+  {
+    "rank": 95,
+    "name": "Doni Rubiagatra",
+    "login": "rubiagatra",
+    "contributions": 127,
+    "company": "@zero-one-group",
+    "organizations": ""
+  },
+  {
+    "rank": 96,
+    "name": "Clay Hacker Team",
+    "login": "ClayHackerTeam",
+    "contributions": 0,
+    "company": "@hellcatindonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 97,
+    "name": "Candra Kriswinarto",
+    "login": "candraKriswinarto",
+    "contributions": 72,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 98,
+    "name": "Esa Firman",
+    "login": "esafirm",
+    "contributions": 206,
+    "company": "@gojek",
+    "organizations": ""
+  },
+  {
+    "rank": 99,
+    "name": "Sandikha Rahardi",
+    "login": "kuldii",
+    "contributions": 47,
+    "company": "Kuldii Project",
+    "organizations": ""
+  },
+  {
+    "rank": 100,
+    "name": "Eka Putra",
+    "login": "ekaputra07",
+    "contributions": 1165,
+    "company": "@Insight-Timer",
+    "organizations": "upkoding"
+  },
+  {
+    "rank": 101,
+    "name": "Muhammad Utsman",
+    "login": "utsmannn",
+    "contributions": 289,
+    "company": "gravel.co.id",
+    "organizations": ""
+  },
+  {
+    "rank": 102,
+    "name": "",
+    "login": "samkoba",
+    "contributions": 317,
+    "company": "@keymeta-networks",
+    "organizations": "Recyclero,dev-protocol,github-craftwork,Py-Contributors,Alphasians,EquiCode,Design-and-Code,CodeVisors,OSCA-Kampala-Chapter,WebXDAO,Bauddhik-Geeks,chesslablab,CommunityPro,Magic-Academy,InnateComm,Keymeta-Networks,infraform,AccessibleForAll"
+  },
+  {
+    "rank": 103,
+    "name": "Syauqizaidan Khairan Khalaf",
+    "login": "syauqi",
+    "contributions": 1691,
+    "company": "",
+    "organizations": "sicodev,syaucademy,KAIT-Team,devoverid,devcode"
+  },
+  {
+    "rank": 104,
+    "name": "Senayan Library Management System (SLiMS)",
+    "login": "slims",
+    "contributions": 6,
+    "company": "Senayan Developers Community",
+    "organizations": ""
+  },
+  {
+    "rank": 105,
+    "name": "Deny Prasetyo",
+    "login": "jasoet",
+    "contributions": 105,
+    "company": "@gojek-engineering",
+    "organizations": "2ndStack,JUG-Indonesia,KotlinID"
+  },
+  {
+    "rank": 106,
+    "name": "Sastra Nababan",
+    "login": "SastraNababan",
+    "contributions": 4,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 107,
+    "name": "Agus Ramadhani",
+    "login": "buananetpbun",
+    "contributions": 1882,
+    "company": "@buananetpbun",
+    "organizations": ""
+  },
+  {
+    "rank": 108,
+    "name": "Gilang Ramadhan",
+    "login": "gilangadhan",
+    "contributions": 97,
+    "company": "Dicoding Indonesia",
+    "organizations": "dicodingacademy,Android-Mastery"
+  },
+  {
+    "rank": 109,
+    "name": "Yudi Setiawan",
+    "login": "CoderJava",
+    "contributions": 972,
+    "company": "",
+    "organizations": "nusanet"
+  },
+  {
+    "rank": 110,
+    "name": "Dery Sudrajat",
+    "login": "derysudrajat",
+    "contributions": 100,
+    "company": "LinkAja",
+    "organizations": "Jagongan-Software-Engineering,Petani-id,Kaede-No-Ki,Teachie,Ruang-Opini"
+  },
+  {
+    "rank": 111,
+    "name": "Malas Ngoding",
+    "login": "malasngoding",
+    "contributions": 0,
+    "company": "www.malasngoding.com",
+    "organizations": ""
+  },
+  {
+    "rank": 112,
+    "name": "Dwicao",
+    "login": "dwicao",
+    "contributions": 10,
+    "company": "",
+    "organizations": "facebook-developer-circle-malang,frutbits,Site2Static,StaticSheet"
+  },
+  {
+    "rank": 113,
+    "name": "Satya Wikananda",
+    "login": "satyawikananda",
+    "contributions": 663,
+    "company": "AM Collective",
+    "organizations": "GNUWeeb"
+  },
+  {
+    "rank": 114,
+    "name": "yopaaa",
+    "login": "yopaaa",
+    "contributions": 444,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 115,
+    "name": "ORYX",
+    "login": "oryxtoken",
+    "contributions": 0,
+    "company": "ORYX",
+    "organizations": ""
+  },
+  {
+    "rank": 116,
+    "name": "Nur Rohman",
+    "login": "nrohmen",
+    "contributions": 2,
+    "company": "Chief Product Officer, Dicoding Indonesia",
+    "organizations": "dicoding-dev"
+  },
+  {
+    "rank": 117,
+    "name": "Alagie Singhateh",
+    "login": "singhateh",
+    "contributions": 299,
+    "company": "Programming With Singhateh",
+    "organizations": ""
+  },
+  {
+    "rank": 118,
+    "name": "agus muhajir",
+    "login": "hajirodeon",
+    "contributions": 133,
+    "company": "OmahBIASAWAE",
+    "organizations": ""
+  },
+  {
+    "rank": 119,
+    "name": "NOOBie",
+    "login": "sinoobie",
+    "contributions": 241,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 120,
+    "name": "Budi Oktaviyan",
+    "login": "budioktaviyan",
+    "contributions": 462,
+    "company": "@grab",
+    "organizations": "jvmdeveloperid,IDDevOps,KotlinID"
+  },
+  {
+    "rank": 121,
+    "name": "Nuris Akbar",
+    "login": "nurisakbar",
+    "contributions": 995,
+    "company": "belajarphp.net",
+    "organizations": ""
+  },
+  {
+    "rank": 122,
+    "name": "Rahmat Awaludin",
+    "login": "rawaludin",
+    "contributions": 16,
+    "company": "@KWRI",
+    "organizations": ""
+  },
+  {
+    "rank": 123,
+    "name": "Muhamad Zulfiqor",
+    "login": "kabitacode",
+    "contributions": 26,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 124,
+    "name": "Ahmad Kholid",
+    "login": "Kholid060",
+    "contributions": 2643,
+    "company": "",
+    "organizations": "WinTenDev,AutomaApp"
+  },
+  {
+    "rank": 125,
+    "name": "Handoko",
+    "login": "kyo1337",
+    "contributions": 28,
+    "company": "No Company | Only Me Private",
+    "organizations": ""
+  },
+  {
+    "rank": 126,
+    "name": "★Indonesia Security Lite★",
+    "login": "4L13199",
+    "contributions": 0,
+    "company": "Indonesia Security Lite",
+    "organizations": ""
+  },
+  {
+    "rank": 127,
+    "name": "Lorensius W. L. T",
+    "login": "lorensiuswlt",
+    "contributions": 0,
+    "company": "TRUSTUDIO",
+    "organizations": ""
+  },
+  {
+    "rank": 128,
+    "name": "Hendy Irawan",
+    "login": "ceefour",
+    "contributions": 1,
+    "company": "@pptik @lskk @bippo @soluvas",
+    "organizations": "indonesia,soluvas,bippo,magja,tmdgitb,lskk,pptik,eragano,kampusubl,unila,fast4indonesia,struktur-data,csh3l3-2017b,itb-sps,DatabaseLaboratory,telkomuniversity,comtran"
+  },
+  {
+    "rank": 129,
+    "name": "Alfian Yusuf Abdullah",
+    "login": "alfianyusufabdullah",
+    "contributions": 1926,
+    "company": "@dicodingacademy",
+    "organizations": "dicodingacademy,dicoding-dev"
+  },
+  {
+    "rank": 130,
+    "name": "Setia Budi",
+    "login": "boedybios",
+    "contributions": 2,
+    "company": "Indonesia Belajar",
+    "organizations": ""
+  },
+  {
+    "rank": 131,
+    "name": "sag᠎e",
+    "login": "laymonage",
+    "contributions": 2025,
+    "company": "@torchbox",
+    "organizations": "torchbox,fossasia,Wikimedia-ID,BesutKode,wagtail,ui-dsc,giscus,ristekoss"
+  },
+  {
+    "rank": 132,
+    "name": "Ega Wachid Radiegtya",
+    "login": "radiegtya",
+    "contributions": 53,
+    "company": "DumbWays.id",
+    "organizations": ""
+  },
+  {
+    "rank": 133,
+    "name": "Laurensius Dede Suhardiman",
+    "login": "laurensius",
+    "contributions": 604,
+    "company": "@Ganesh-Lab-Solutions, @gurungaji-com",
+    "organizations": ""
+  },
+  {
+    "rank": 134,
+    "name": "Koko Nio R",
+    "login": "kokonior",
+    "contributions": 1899,
+    "company": "Wleee Supremacy.",
+    "organizations": ""
+  },
+  {
+    "rank": 135,
+    "name": "Bagicode",
+    "login": "bagi-code",
+    "contributions": 4,
+    "company": "Bagicode",
+    "organizations": ""
+  },
+  {
+    "rank": 136,
+    "name": "Richie Seputro",
+    "login": "richiesuper",
+    "contributions": 238,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 137,
+    "name": "Risyandi",
+    "login": "Risyandi",
+    "contributions": 433,
+    "company": "@ngarsa-digital",
+    "organizations": ""
+  },
+  {
+    "rank": 138,
+    "name": "Faisal Salman",
+    "login": "faisalman",
+    "contributions": 183,
+    "company": "",
+    "organizations": "coderwall-lemmings100,coderwall-beaver"
+  },
+  {
+    "rank": 139,
+    "name": "Riski Darmawan",
+    "login": "hekelpro",
+    "contributions": 36,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 140,
+    "name": "Hendri Karisma",
+    "login": "situkangsayur",
+    "contributions": 7,
+    "company": "PT Akar Inti Data",
+    "organizations": ""
+  },
+  {
+    "rank": 141,
+    "name": "Rio Astamal",
+    "login": "rioastamal",
+    "contributions": 181,
+    "company": "@aws",
+    "organizations": "rioastamal-examples"
+  },
+  {
+    "rank": 142,
+    "name": "Giovanni Sakti",
+    "login": "giosakti",
+    "contributions": 0,
+    "company": "@gojek",
+    "organizations": "id-ruby,jakartajs,perkodi-org,BaritoLog,deeptechid,gopaytech,opensourceindonesia,insinyuronline"
+  },
+  {
+    "rank": 143,
+    "name": "Yoga Sakti",
+    "login": "YogaSakti",
+    "contributions": 182,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 144,
+    "name": "Mochammad Nopal Attasya",
+    "login": "novalattasya",
+    "contributions": 17,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 145,
+    "name": "Iskandar Setiadi",
+    "login": "freedomofkeima",
+    "contributions": 1001,
+    "company": "HENNGE, K.K. (HDE, Inc.)",
+    "organizations": "if-itb,HENNGE,panenpa"
+  },
+  {
+    "rank": 146,
+    "name": "Aan",
+    "login": "aancw",
+    "contributions": 115,
+    "company": "",
+    "organizations": "BlackArch,pegelinux,rumahvoip,SinauDev"
+  },
+  {
+    "rank": 147,
+    "name": "Taufan Aditya",
+    "login": "toopay",
+    "contributions": 655,
+    "company": "@refactory-id",
+    "organizations": "thephpleague,bixboxapp,refactory-id"
+  },
+  {
+    "rank": 148,
+    "name": "Nadya Sutjiadi",
+    "login": "Nadyatjia",
+    "contributions": 0,
+    "company": "Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 149,
+    "name": "Saiful Bahri",
+    "login": "bahrie127",
+    "contributions": 178,
+    "company": "Studio Teknologi Kreatif",
+    "organizations": "2ndStack,fugindo"
+  },
+  {
+    "rank": 150,
+    "name": "Endi",
+    "login": "endiliey",
+    "contributions": 0,
+    "company": "open source",
+    "organizations": "NTUsg"
+  },
+  {
+    "rank": 151,
+    "name": "Fauzan Falah",
+    "login": "fauzan1892",
+    "contributions": 47,
+    "company": "Codekop Developer",
+    "organizations": "Codekop-Developer"
+  },
+  {
+    "rank": 152,
+    "name": "M Fikri",
+    "login": "mfikricom",
+    "contributions": 9,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 153,
+    "name": "Jefry Dewangga",
+    "login": "jefrydco",
+    "contributions": 2267,
+    "company": "",
+    "organizations": "frontend-id,vuejs-id"
+  },
+  {
+    "rank": 154,
+    "name": "",
+    "login": "Fruitfella",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 155,
+    "name": "",
+    "login": "agusmakmun",
+    "contributions": 40,
+    "company": "@hysnsec",
+    "organizations": "library-collections,titipbeliin"
+  },
+  {
+    "rank": 156,
+    "name": "Bagus Wiratma Adi",
+    "login": "baguswiratmaadi",
+    "contributions": 0,
+    "company": "PT. ABM",
+    "organizations": ""
+  },
+  {
+    "rank": 157,
+    "name": "Muhammad Yuga N.",
+    "login": "myugan",
+    "contributions": 15,
+    "company": "Practical DevSecOps",
+    "organizations": ""
+  },
+  {
+    "rank": 158,
+    "name": "Ardiansyah Putra",
+    "login": "putraxor",
+    "contributions": 5,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 159,
+    "name": "M Gilang Januar",
+    "login": "mgilangjanuar",
+    "contributions": 1586,
+    "company": "",
+    "organizations": "mic3308"
+  },
+  {
+    "rank": 160,
+    "name": "Muhammad Zakir Ramadhan",
+    "login": "zakirkun",
+    "contributions": 7482,
+    "company": "DigiAsia BIOS",
+    "organizations": "tegal1337,devoverid"
+  },
+  {
+    "rank": 161,
+    "name": "Justin Maximillian Kimlim",
+    "login": "kimlimjustin",
+    "contributions": 121,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 162,
+    "name": "Nur Muhammad",
+    "login": "ngekoding",
+    "contributions": 290,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 163,
+    "name": "Teguh Aprianto",
+    "login": "secgron",
+    "contributions": 25,
+    "company": "",
+    "organizations": "ethicalhackID"
+  },
+  {
+    "rank": 164,
+    "name": "Yanyan Sofiyan",
+    "login": "yysofiyan",
+    "contributions": 466,
+    "company": "Fakultas Teknologi Informasi - UNSAP",
+    "organizations": "stmik-sumedang-ac-id,FT3006-OOP,FT3109-PABWEB"
+  },
+  {
+    "rank": 165,
+    "name": "Ayra Hikari",
+    "login": "AyraHikari",
+    "contributions": 250,
+    "company": "@NusantaraDevs",
+    "organizations": ""
+  },
+  {
+    "rank": 166,
+    "name": "Yusril Rapsanjani",
+    "login": "yusriltakeuchi",
+    "contributions": 2320,
+    "company": "Mobile Developer at Bank BNI",
+    "organizations": ""
+  },
+  {
+    "rank": 167,
+    "name": "Veronica Putri Anggraini",
+    "login": "veroanggra",
+    "contributions": 438,
+    "company": "@LINEBank @dsc-id @Islamic-Development-Network @LINEBank",
+    "organizations": "Islamic-Development-Network"
+  },
+  {
+    "rank": 168,
+    "name": "Mochamad Firgia",
+    "login": "firgia",
+    "contributions": 1773,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 169,
+    "name": "Iqbal Rifai",
+    "login": "py7hon",
+    "contributions": 61,
+    "company": "",
+    "organizations": "yagidot,blowkick,devowo,delsubs,moedevel,posantai"
+  },
+  {
+    "rank": 170,
+    "name": "AlfathDirk",
+    "login": "alfathdirk",
+    "contributions": 61,
+    "company": "@twlv",
+    "organizations": ""
+  },
+  {
+    "rank": 171,
+    "name": "iBNu Maksum",
+    "login": "ibnux",
+    "contributions": 2209,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 172,
+    "name": "Muhammad Asthi Seta Ari Yuwana",
+    "login": "AkuraDiary",
+    "contributions": 431,
+    "company": "",
+    "organizations": "raviolini"
+  },
+  {
+    "rank": 173,
+    "name": "Billy Franscois",
+    "login": "BillyFrcs",
+    "contributions": 502,
+    "company": "Everywhere",
+    "organizations": "scc-ukim"
+  },
+  {
+    "rank": 174,
+    "name": "Faisal L",
+    "login": "salluthdev",
+    "contributions": 1801,
+    "company": "@strtbutton",
+    "organizations": "instanx-io,qubicball,nakuponku,guruku-gdsc"
+  },
+  {
+    "rank": 175,
+    "name": "Fajar Nur Wahid",
+    "login": "fajarnurwahid",
+    "contributions": 95,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 176,
+    "name": "Fika Ridaul Maulayya",
+    "login": "maulayyacyber",
+    "contributions": 159,
+    "company": "@Santrikoding-com",
+    "organizations": "codeigniter-id,NAHKODA"
+  },
+  {
+    "rank": 177,
+    "name": "Agastya Darma",
+    "login": "gedeagas",
+    "contributions": 373,
+    "company": "",
+    "organizations": "reactjs,ai-id"
+  },
+  {
+    "rank": 178,
+    "name": "Ibnu Yahya",
+    "login": "anak10thn",
+    "contributions": 192,
+    "company": "Bitch From Hell",
+    "organizations": "igosnusantara,ignsdk,fossasia,fedora-id,aksaramaya,OpenGenus,openedoo,orcinustools,rustid,baik-lang"
+  },
+  {
+    "rank": 179,
+    "name": "Aditya Kresna",
+    "login": "Ujang360",
+    "contributions": 353,
+    "company": "@Tapalogi",
+    "organizations": "EpicGames,NullReferenceTechnology,siopl-developers,avs-simulator,BlueDotProject,SAC-Greenhouse,SiliwangiWirakaryaGanesha,QTILabs,Tapalogi,QCALabs,Otak-AI,gemtek-indonesia,gemtek-infinity,PillarHub,goro-network,bamboolabs-foundation"
+  },
+  {
+    "rank": 180,
+    "name": "Restu Wahyu Saputra",
+    "login": "restuwahyu13",
+    "contributions": 721,
+    "company": "Pazemo",
+    "organizations": ""
+  },
+  {
+    "rank": 181,
+    "name": "Hadi Hidayat Hammurabi",
+    "login": "hadihammurabi",
+    "contributions": 829,
+    "company": "@tamankodekode",
+    "organizations": "semicolonTeam,tugasTI"
+  },
+  {
+    "rank": 182,
+    "name": "Diky Arga",
+    "login": "dikyarga",
+    "contributions": 983,
+    "company": "@deliveryhero @id-mozilla",
+    "organizations": "id-mozilla,DOSCOM,tealinuxos,fsaindonesia,darwins-fox-2017,matory,BukaLelang"
+  },
+  {
+    "rank": 183,
+    "name": "mpj",
+    "login": "empeje",
+    "contributions": 1099,
+    "company": "@Glovo @deliveryhero",
+    "organizations": "deliveryhero,Glovo,eth-protocol-fellows,Ethereum-JKT,Stacks-Indonesia"
+  },
+  {
+    "rank": 184,
+    "name": "perlancar",
+    "login": "perlancar",
+    "contributions": 1661,
+    "company": "-",
+    "organizations": "id-php,spanel,perladvent"
+  },
+  {
+    "rank": 185,
+    "name": "ₐᵣᵢfᵢₛₜᵢfᵢₖ",
+    "login": "arifistifik",
+    "contributions": 0,
+    "company": "DRAGON PLAY KILLER",
+    "organizations": ""
+  },
+  {
+    "rank": 186,
+    "name": "Jacky Efendi",
+    "login": "jackyef",
+    "contributions": 2555,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 187,
+    "name": "Tobi Saputra",
+    "login": "TobyG74",
+    "contributions": 384,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 188,
+    "name": "Ernawati",
+    "login": "Ernawati168",
+    "contributions": 1,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 189,
+    "name": "Albert I",
+    "login": "krasCGQ",
+    "contributions": 769,
+    "company": "@TeamHorizon",
+    "organizations": "TeamHorizon,AIMROM,KudProject,RaphielGang,BrickportDevloopers"
+  },
+  {
+    "rank": 190,
+    "name": "Abdul Fattah Ikhsan",
+    "login": "ikhsanalatsary",
+    "contributions": 2480,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 191,
+    "name": "Arga Astri Bimantara",
+    "login": "arugaz",
+    "contributions": 1571,
+    "company": "",
+    "organizations": "Hidden-Finder,botdev-univ"
+  },
+  {
+    "rank": 192,
+    "name": "Ahmad Arif Faizin",
+    "login": "arifaizin",
+    "contributions": 447,
+    "company": "Dicoding Indonesia",
+    "organizations": "dicodingacademy"
+  },
+  {
+    "rank": 193,
+    "name": "Ali Reza",
+    "login": "AliReza1083",
+    "contributions": 1369,
+    "company": "@EddieHubCommunity",
+    "organizations": "EddieHubCommunity"
+  },
+  {
+    "rank": 194,
+    "name": "Albertus Angga Raharja",
+    "login": "albertusdev",
+    "contributions": 957,
+    "company": "@SpeechifyInc",
+    "organizations": ""
+  },
+  {
+    "rank": 195,
+    "name": "M Yusril",
+    "login": "Sansekai",
+    "contributions": 401,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 196,
+    "name": "Farhan",
+    "login": "gitfarhan",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 197,
+    "name": "David Chandra Purnama",
+    "login": "turtlepod",
+    "contributions": 502,
+    "company": "@10up",
+    "organizations": "10up"
+  },
+  {
+    "rank": 198,
+    "name": "al-fariqy raihan ( qywok )",
+    "login": "belajarqywok",
+    "contributions": 22188,
+    "company": "@qnetics, @rq-21-engineer",
+    "organizations": "RQ-21-Engineer"
+  },
+  {
+    "rank": 199,
+    "name": "Hafitz",
+    "login": "breakdowns",
+    "contributions": 161,
+    "company": "@TheBreakdowns",
+    "organizations": "TheBreakdowns"
+  },
+  {
+    "rank": 200,
+    "name": "Boy Hamzah",
+    "login": "BOY-H4MZ4H",
+    "contributions": 154,
+    "company": "@XNSCODE",
+    "organizations": ""
+  },
+  {
+    "rank": 201,
+    "name": "MikeCodeur",
+    "login": "MikeCodeur",
+    "contributions": 117,
+    "company": "www.mikecodeur.com",
+    "organizations": ""
+  },
+  {
+    "rank": 202,
+    "name": "Nusendra Hanggarawan",
+    "login": "nusendra",
+    "contributions": 244,
+    "company": "Freelancer",
+    "organizations": "vuejs-id,surabayajs,evilfactorylabs"
+  },
+  {
+    "rank": 203,
+    "name": "Andreas Chandra",
+    "login": "andreaschandra",
+    "contributions": 488,
+    "company": "@jakartaresearch",
+    "organizations": "jakartaresearch"
+  },
+  {
+    "rank": 204,
+    "name": "boychongzen",
+    "login": "boychongzen18",
+    "contributions": 323,
+    "company": "hackingforlive.wordpress.com",
+    "organizations": ""
+  },
+  {
+    "rank": 205,
+    "name": "Rizqi Nur Assyaufi",
+    "login": "bandithijo",
+    "contributions": 1356,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 206,
+    "name": "Muhibbudin Suretno",
+    "login": "muhibbudins",
+    "contributions": 1468,
+    "company": "@narawira",
+    "organizations": "narawira"
+  },
+  {
+    "rank": 207,
+    "name": "Alfiana Sibuea",
+    "login": "fians",
+    "contributions": 2,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 208,
+    "name": "Angga Kurniawan",
+    "login": "g4rzk",
+    "contributions": 1144,
+    "company": "XNSCODE",
+    "organizations": "avsid"
+  },
+  {
+    "rank": 209,
+    "name": "Ujang Wahyu",
+    "login": "wahyouwebid",
+    "contributions": 10,
+    "company": "CIMB Niaga",
+    "organizations": ""
+  },
+  {
+    "rank": 210,
+    "name": "Agung Setiawan",
+    "login": "agungsetiawan",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 211,
+    "name": "Anton Nurdin Tuhadiansyah",
+    "login": "anton46",
+    "contributions": 0,
+    "company": "Yahoo Japan",
+    "organizations": ""
+  },
+  {
+    "rank": 212,
+    "name": "Dimitri Wahyudiputra",
+    "login": "dmtrxw",
+    "contributions": 179,
+    "company": "",
+    "organizations": "esmilo"
+  },
+  {
+    "rank": 213,
+    "name": "Irsyad A. Panjaitan",
+    "login": "irsyadadl",
+    "contributions": 3431,
+    "company": "@teamparsinta",
+    "organizations": ""
+  },
+  {
+    "rank": 214,
+    "name": "Taufik Hidayat",
+    "login": "tfkhdyt",
+    "contributions": 4558,
+    "company": "Universitas Bale Bandung",
+    "organizations": ""
+  },
+  {
+    "rank": 215,
+    "name": "Didiet",
+    "login": "lynxluna",
+    "contributions": 167,
+    "company": "YKode.com",
+    "organizations": "rhokds"
+  },
+  {
+    "rank": 216,
+    "name": "Muhammad Rafly Indrawan",
+    "login": "Fliw",
+    "contributions": 988,
+    "company": "",
+    "organizations": "amccamikom,digitalkode,idejualan-core,Naisha-hijrah,KampusJualan,kirimpaket-id,Renda-id,FanyBaby,Qur-ana,YouthEducationalCentre"
+  },
+  {
+    "rank": 217,
+    "name": "ram",
+    "login": "nomadkode",
+    "contributions": 11,
+    "company": "Freelancer",
+    "organizations": "nomadkode-org"
+  },
+  {
+    "rank": 218,
+    "name": "Akeda Bagus",
+    "login": "gedex",
+    "contributions": 650,
+    "company": "",
+    "organizations": "woocommerce,Automattic,golang-id"
+  },
+  {
+    "rank": 219,
+    "name": "Fiqry choerudin",
+    "login": "fiqryq",
+    "contributions": 2691,
+    "company": "@kitabisa",
+    "organizations": "kitabisa,Suncodeid,100daycode"
+  },
+  {
+    "rank": 220,
+    "name": "Ahmad Fauzy",
+    "login": "madfauzy",
+    "contributions": 2207,
+    "company": "Universitas Mercu Buana",
+    "organizations": ""
+  },
+  {
+    "rank": 221,
+    "name": "omrobbie",
+    "login": "omrobbie",
+    "contributions": 91,
+    "company": "",
+    "organizations": "SuBali,appledeveloperacademy"
+  },
+  {
+    "rank": 222,
+    "name": "Elfin Sanjaya",
+    "login": "elfinsanjaya12",
+    "contributions": 2131,
+    "company": "@codeathome-dev",
+    "organizations": "gama-textile,andaglos-developer-academy-7-fullstack"
+  },
+  {
+    "rank": 223,
+    "name": "Muhammad Garebaldhie Er Rahman",
+    "login": "IloveNooodles",
+    "contributions": 1563,
+    "company": "ITB",
+    "organizations": ""
+  },
+  {
+    "rank": 224,
+    "name": "Qasim Zaidi",
+    "login": "qzaidi",
+    "contributions": 231,
+    "company": "@tokopedia",
+    "organizations": ""
+  },
+  {
+    "rank": 225,
+    "name": "Muhamad Hudya Ramadhana",
+    "login": "perogeremmer",
+    "contributions": 2879,
+    "company": "@soulparking",
+    "organizations": ""
+  },
+  {
+    "rank": 226,
+    "name": "Ryan Aunur Rassyid",
+    "login": "nyancodeid",
+    "contributions": 1636,
+    "company": "NyanDev Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 227,
+    "name": "Iqbal syamil ayasy",
+    "login": "2pai",
+    "contributions": 768,
+    "company": "@pintu-crypto",
+    "organizations": "2pai-dev,cloudnative-id"
+  },
+  {
+    "rank": 228,
+    "name": "Cahya DSN",
+    "login": "cahyadsn",
+    "contributions": 112,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 229,
+    "name": "Wisesa",
+    "login": "kelilipan",
+    "contributions": 391,
+    "company": "@tokopedia",
+    "organizations": "gsocindonesia,comtran,ailabtelkom,ketringan"
+  },
+  {
+    "rank": 230,
+    "name": "Kresna Satya",
+    "login": "kresnasatya",
+    "contributions": 388,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 231,
+    "name": "Rachman Chavik",
+    "login": "rchavik",
+    "contributions": 5,
+    "company": "",
+    "organizations": "cakephp,croogo,xintesa"
+  },
+  {
+    "rank": 232,
+    "name": "Vanza Setia",
+    "login": "vanzasetia",
+    "contributions": 814,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 233,
+    "name": "Dandy Raka",
+    "login": "dandyraka",
+    "contributions": 1097,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 234,
+    "name": "Deni Rohimat",
+    "login": "derohimat",
+    "contributions": 1047,
+    "company": "GovTech Edu",
+    "organizations": ""
+  },
+  {
+    "rank": 235,
+    "name": "Abdillah Hasny",
+    "login": "abdilahrf",
+    "contributions": 182,
+    "company": "@Hacker0x01",
+    "organizations": ""
+  },
+  {
+    "rank": 236,
+    "name": "Andre Rio",
+    "login": "andregans",
+    "contributions": 69,
+    "company": "Wibucode",
+    "organizations": ""
+  },
+  {
+    "rank": 237,
+    "name": "M Ramdhan",
+    "login": "d4em0n",
+    "contributions": 33,
+    "company": "",
+    "organizations": "Super-Guesser"
+  },
+  {
+    "rank": 238,
+    "name": "Zusyaku",
+    "login": "Zusyaku",
+    "contributions": 16,
+    "company": "PT Mencari Cinta Sejati",
+    "organizations": ""
+  },
+  {
+    "rank": 239,
+    "name": "Abdurrahman Fadhil",
+    "login": "rahmanfadhil",
+    "contributions": 598,
+    "company": "",
+    "organizations": "Kumpulin,BarberFinder,ImpactAlumni,impactbyte-fang"
+  },
+  {
+    "rank": 240,
+    "name": "Farhan Rivaldy",
+    "login": "HaradaKumiko",
+    "contributions": 14450,
+    "company": "",
+    "organizations": "gdsc-universitasmulia,OpenProjects-id,Helpul-Studio,Pusat-Sistem-Informasi-UM"
+  },
+  {
+    "rank": 241,
+    "name": "Bagas Satria",
+    "login": "bagasstrongman",
+    "contributions": 183,
+    "company": "Internship @Mattel",
+    "organizations": ""
+  },
+  {
+    "rank": 242,
+    "name": "Miku AuahDark",
+    "login": "MikuAuahDark",
+    "contributions": 678,
+    "company": "@DarkEnergyProcessor",
+    "organizations": "love2d-community"
+  },
+  {
+    "rank": 243,
+    "name": "Muhammad Muhajir",
+    "login": "muhajirdev",
+    "contributions": 116,
+    "company": "",
+    "organizations": "gatsbook,yukngaji,hafidz-io"
+  },
+  {
+    "rank": 244,
+    "name": "Ivan Kristianto",
+    "login": "ivankristianto",
+    "contributions": 2236,
+    "company": "Human Made",
+    "organizations": "wp-id"
+  },
+  {
+    "rank": 245,
+    "name": "Made Baruna",
+    "login": "MadeBaruna",
+    "contributions": 928,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 246,
+    "name": "Zufar Dhiyaulhaq",
+    "login": "zufardhiyaulhaq",
+    "contributions": 529,
+    "company": "GoTo Financial",
+    "organizations": "istio,jk8s,cloudnative-id,gopaytech"
+  },
+  {
+    "rank": 247,
+    "name": "Ibnu Sina Wardy",
+    "login": "iboen",
+    "contributions": 0,
+    "company": "GITS Indonesia",
+    "organizations": "gitsindonesia,eudeka"
+  },
+  {
+    "rank": 248,
+    "name": "Alif Rachmawadi",
+    "login": "subosito",
+    "contributions": 5,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 249,
+    "name": "Enji Kusnadi",
+    "login": "enjidev",
+    "contributions": 1346,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 250,
+    "name": "Anggrayudi H",
+    "login": "anggrayudi",
+    "contributions": 46,
+    "company": "Gojek Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 251,
+    "name": "Rizqi Wahyudi",
+    "login": "rizqiwahyudi",
+    "contributions": 146,
+    "company": "Sumekar Software Development",
+    "organizations": "BugHunterID"
+  },
+  {
+    "rank": 252,
+    "name": "Agus Ibrahim",
+    "login": "agusibrahim",
+    "contributions": 45,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 253,
+    "name": "Anton Raharja",
+    "login": "antonraharja",
+    "contributions": 2,
+    "company": "",
+    "organizations": "playsms"
+  },
+  {
+    "rank": 254,
+    "name": "Naufal Aji Wibowo",
+    "login": "extraflake",
+    "contributions": 43,
+    "company": "PT Mitra Integrasi Informatika",
+    "organizations": ""
+  },
+  {
+    "rank": 255,
+    "name": "Robin Syihab",
+    "login": "anvie",
+    "contributions": 379,
+    "company": "",
+    "organizations": "Digaku"
+  },
+  {
+    "rank": 256,
+    "name": "Louis Owen",
+    "login": "louisowen6",
+    "contributions": 23,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 257,
+    "name": "Naufal Prakoso",
+    "login": "naufalprakoso",
+    "contributions": 236,
+    "company": "GoTo Financial",
+    "organizations": "Bluejack-18-1,dsc-id,bogordevelopers,DSC-Binus-KMG,bluejacketslc"
+  },
+  {
+    "rank": 258,
+    "name": "Dika Ardianta",
+    "login": "DikaArdnt",
+    "contributions": 2532,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 259,
+    "name": "Franz",
+    "login": "TDR-1000",
+    "contributions": 188,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 260,
+    "name": "Yoga Hanggara",
+    "login": "yohangdev",
+    "contributions": 83,
+    "company": "Jabar Digital Service",
+    "organizations": "jabardigitalservice"
+  },
+  {
+    "rank": 261,
+    "name": "Runa Inoue Anderson",
+    "login": "Runa-Chin",
+    "contributions": 59,
+    "company": "Mikka & Rikka Systems",
+    "organizations": "GNUWeeb,ForumLinuxIndonesia,HaluCorp,kodeter"
+  },
+  {
+    "rank": 262,
+    "name": "Prawito Hudoro",
+    "login": "prawito",
+    "contributions": 1194,
+    "company": "PT. Hudoro Solusi Digital",
+    "organizations": "hudoro-solusi-digital"
+  },
+  {
+    "rank": 263,
+    "name": "Wafa Rifqi Anafin",
+    "login": "wafarifki",
+    "contributions": 209,
+    "company": "Faceindo Developer Team",
+    "organizations": ""
+  },
+  {
+    "rank": 264,
+    "name": "Wisnu Adi Nurcahyo",
+    "login": "wisn",
+    "contributions": 747,
+    "company": "@traveloka",
+    "organizations": "traveloka,coala,BesutKode,helloproclub,comtran"
+  },
+  {
+    "rank": 265,
+    "name": "Kiswono Prayogo",
+    "login": "kokizzu",
+    "contributions": 4057,
+    "company": "Remote Programmer",
+    "organizations": ""
+  },
+  {
+    "rank": 266,
+    "name": "Muhammad Syifa",
+    "login": "emsifa",
+    "contributions": 2551,
+    "company": "",
+    "organizations": "rakit"
+  },
+  {
+    "rank": 267,
+    "name": "Muhammad Yusuf Aristyanto",
+    "login": "myarist",
+    "contributions": 32,
+    "company": "@DQLabID",
+    "organizations": "belajarstatistik"
+  },
+  {
+    "rank": 268,
+    "name": "Vania Radmila Alfitri",
+    "login": "alfitriv",
+    "contributions": 23,
+    "company": "GO-JEK",
+    "organizations": ""
+  },
+  {
+    "rank": 269,
+    "name": "Dwi Fahni Denni (dfdenni)",
+    "login": "zeroc0d3",
+    "contributions": 957,
+    "company": "DevOpsCorner.id",
+    "organizations": "laradock,dockube,IAC-InfrastructureAsCode,devopscorner"
+  },
+  {
+    "rank": 270,
+    "name": "The Magizz",
+    "login": "TheMagizz",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 271,
+    "name": "Cash Boom",
+    "login": "TouchCon-Reward",
+    "contributions": 0,
+    "company": "PT.Sistem Informatika Golobal Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 272,
+    "name": "Muhamad Surya Iksanudin",
+    "login": "ad3n",
+    "contributions": 71,
+    "company": "@KejawenLab",
+    "organizations": ""
+  },
+  {
+    "rank": 273,
+    "name": "Ahmad Nurhidayat",
+    "login": "dytlabs",
+    "contributions": 76,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 274,
+    "name": "Hafizh Herdi",
+    "login": "twoh",
+    "contributions": 15,
+    "company": "@tokopedia",
+    "organizations": "tokopedia,AndroidDeveloperBandung"
+  },
+  {
+    "rank": 275,
+    "name": "Kaenova Mahendra Auditama",
+    "login": "kaenova",
+    "contributions": 1252,
+    "company": "@ailabtelkom @kerjago",
+    "organizations": "ailabtelkom,kerjago,CC22-HO01-TravelokaSigapore-HotelRanks"
+  },
+  {
+    "rank": 276,
+    "name": "Joko Santosa",
+    "login": "ignatiussantosa25",
+    "contributions": 0,
+    "company": "PT Mitra Integrasi Informatika",
+    "organizations": ""
+  },
+  {
+    "rank": 277,
+    "name": "Nur Fikri",
+    "login": "codingki",
+    "contributions": 2336,
+    "company": "",
+    "organizations": "graz-sh"
+  },
+  {
+    "rank": 278,
+    "name": "",
+    "login": "ccrsxx",
+    "contributions": 1046,
+    "company": "",
+    "organizations": "ccrsxx-archive"
+  },
+  {
+    "rank": 279,
+    "name": "Indra Kusuma",
+    "login": "idindrakusuma",
+    "contributions": 2548,
+    "company": "@tokopedia @invitato",
+    "organizations": "tokopedia,creativefls,Invitato"
+  },
+  {
+    "rank": 280,
+    "name": "Jody Yuantoro",
+    "login": "xyzuan",
+    "contributions": 534,
+    "company": "University of Muhammadiyah Malang",
+    "organizations": "ancient-devices,Ancient-Lab,chaldeaprjkt,xyz-prjkt,BTLGxWeeabo,xdroid-CAF,xyz-Infrastructure,xdroidsp-obsolete,Yukina-Supremacy,xd-lavender,MaritimProject"
+  },
+  {
+    "rank": 281,
+    "name": "Ridwan Maulana",
+    "login": "R1dwanMaulana",
+    "contributions": 589,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 282,
+    "name": "Fanny Hasbi",
+    "login": "fannyhasbi",
+    "contributions": 2,
+    "company": "",
+    "organizations": "creativefls,cerc-undip,tokopedia-devcamp,Software-Engineering-UNDIP"
+  },
+  {
+    "rank": 283,
+    "name": "Zero F",
+    "login": "zerofinding",
+    "contributions": 0,
+    "company": "@zerofinding",
+    "organizations": ""
+  },
+  {
+    "rank": 284,
+    "name": "Nanda Oktavera",
+    "login": "okitavera",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 285,
+    "name": "Hanif Dwy Putra S",
+    "login": "hansputera",
+    "contributions": 13231,
+    "company": "@hansputera-lab",
+    "organizations": "hammer-code,frutbits,secretDevelopment17,Raznar-Hosting,Raznar-Lab,hansputera-lab,opentbi,ForumLinuxIndonesia,smantriplw"
+  },
+  {
+    "rank": 286,
+    "name": "",
+    "login": "kumpul4semut",
+    "contributions": 91,
+    "company": "kumpul4semut",
+    "organizations": ""
+  },
+  {
+    "rank": 287,
+    "name": "Andi N. Dirgantara",
+    "login": "hellowin",
+    "contributions": 4,
+    "company": "@tvlk-data",
+    "organizations": "tvlk-data,kanca-studio"
+  },
+  {
+    "rank": 288,
+    "name": "Caliph Dev",
+    "login": "caliphdev",
+    "contributions": 5986,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 289,
+    "name": "Tsara Fatma L",
+    "login": "tsara27",
+    "contributions": 350,
+    "company": "",
+    "organizations": "cubiclerebels,ifmeorg,crafter-digital"
+  },
+  {
+    "rank": 290,
+    "name": "Rizal Hilman",
+    "login": "drawrs",
+    "contributions": 19,
+    "company": "@Udacoding @appledeveloperacademy",
+    "organizations": ""
+  },
+  {
+    "rank": 291,
+    "name": "Alfara Nafi Dinara",
+    "login": "Nafidinara",
+    "contributions": 350,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 292,
+    "name": "Achmad Imannudin",
+    "login": "1Firsts",
+    "contributions": 93,
+    "company": "Technology Inspiration",
+    "organizations": ""
+  },
+  {
+    "rank": 293,
+    "name": "Afnizar Nur Ghifari",
+    "login": "afnizarnur",
+    "contributions": 149,
+    "company": "",
+    "organizations": "opensourcedesign"
+  },
+  {
+    "rank": 294,
+    "name": "Sofian Hadiwijaya",
+    "login": "sofianhw",
+    "contributions": 208,
+    "company": "@two-point-five @rrqguild",
+    "organizations": "pinjamindonesia,warungpintar"
+  },
+  {
+    "rank": 295,
+    "name": "Ibnu syawal",
+    "login": "ibnusyawall",
+    "contributions": 917,
+    "company": "",
+    "organizations": "kodingkeun"
+  },
+  {
+    "rank": 296,
+    "name": "Rachmat Gunawan",
+    "login": "nawan44",
+    "contributions": 252,
+    "company": "Mercubuana University",
+    "organizations": ""
+  },
+  {
+    "rank": 297,
+    "name": "Fachridan Tio Mu'afa",
+    "login": "fachridantm",
+    "contributions": 670,
+    "company": "UIN Syarif Hidayatullah Jakarta",
+    "organizations": "SelidikPasar"
+  },
+  {
+    "rank": 298,
+    "name": "Ahmad Rosid Komarudin",
+    "login": "ArRosid",
+    "contributions": 0,
+    "company": "ID-Networkers",
+    "organizations": ""
+  },
+  {
+    "rank": 299,
+    "name": "Eueung Mulyana",
+    "login": "eueung",
+    "contributions": 0,
+    "company": "Institut Teknologi Bandung (ITB)",
+    "organizations": ""
+  },
+  {
+    "rank": 300,
+    "name": "I Putu Alfred Crosby",
+    "login": "alfrcr",
+    "contributions": 2084,
+    "company": "@vinceredigital",
+    "organizations": "redite,BaliJS"
+  },
+  {
+    "rank": 301,
+    "name": "Danil",
+    "login": "danilhendrasr",
+    "contributions": 1148,
+    "company": "Selarastech",
+    "organizations": "pps-ti,checklist-id"
+  },
+  {
+    "rank": 302,
+    "name": "Radhi",
+    "login": "RadhiFadlillah",
+    "contributions": 509,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 303,
+    "name": "Aris",
+    "login": "abdularis",
+    "contributions": 505,
+    "company": "",
+    "organizations": "majalengkadev"
+  },
+  {
+    "rank": 304,
+    "name": "4WSec",
+    "login": "aryanrtm",
+    "contributions": 19,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 305,
+    "name": "Fiqri Hafzain",
+    "login": "syntaxxxxx",
+    "contributions": 240,
+    "company": "@android-enthusiast",
+    "organizations": ""
+  },
+  {
+    "rank": 306,
+    "name": "Azka Full Snack Developer:)",
+    "login": "azkadev",
+    "contributions": 353,
+    "company": "@HexaMinate , @ENVIVORE , @GALAXEUS",
+    "organizations": "COINLOX,archivon,OpenSourceCodeDev,ADSGateway,meesagee,GLXCORP"
+  },
+  {
+    "rank": 307,
+    "name": "Matthew Kevin Amadeus",
+    "login": "mkamadeus",
+    "contributions": 1655,
+    "company": "IF18 @itb1920 | Xendit",
+    "organizations": "xendit,arkavidia-hmif"
+  },
+  {
+    "rank": 308,
+    "name": "Theodore Rivaldo Devo Mangowal",
+    "login": "theodevoid",
+    "contributions": 484,
+    "company": "ICX",
+    "organizations": "icx-id"
+  },
+  {
+    "rank": 309,
+    "name": "Kemal Kurniawan",
+    "login": "kmkurn",
+    "contributions": 4,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 310,
+    "name": "Hamzah Kirana",
+    "login": "Boy-Tolkit",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 311,
+    "name": "ridwanfs",
+    "login": "ridwanbejo",
+    "contributions": 668,
+    "company": "Cloud Infrastructure Engineer at DKatalis Digital Labs",
+    "organizations": ""
+  },
+  {
+    "rank": 312,
+    "name": "Dihak",
+    "login": "dihak",
+    "contributions": 1379,
+    "company": "@digitalkode",
+    "organizations": "BesutKode,phpsukabumi,digitalkode,idejualan-core,Naisha-hijrah,KampusJualan,Nusaputra-Webdev,kirimpaket-id,Renda-id,herobot-id"
+  },
+  {
+    "rank": 313,
+    "name": "Anaf Naufalian",
+    "login": "kafri8889",
+    "contributions": 2203,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 314,
+    "name": "Rezza Kurniawan",
+    "login": "erkurn",
+    "contributions": 850,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 315,
+    "name": "Alif Fathur",
+    "login": "herobuxx",
+    "contributions": 1756,
+    "company": "",
+    "organizations": "ConquerOS-Devices,ConquerOS,liliumproject,rnscnet"
+  },
+  {
+    "rank": 316,
+    "name": "Nadia Lovely",
+    "login": "nadialvy",
+    "contributions": 773,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": ""
+  },
+  {
+    "rank": 317,
+    "name": "Nugroho Herucahyono",
+    "login": "xinuc",
+    "contributions": 0,
+    "company": "bukalapak.com",
+    "organizations": "id-ruby"
+  },
+  {
+    "rank": 318,
+    "name": "",
+    "login": "expertinvest15",
+    "contributions": 36,
+    "company": "Bandung",
+    "organizations": ""
+  },
+  {
+    "rank": 319,
+    "name": "{Zero Cool}",
+    "login": "crash-override404",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 320,
+    "name": "Wisnu Kurniawan",
+    "login": "wisnukurniawan",
+    "contributions": 426,
+    "company": "@gojek",
+    "organizations": ""
+  },
+  {
+    "rank": 321,
+    "name": "Taufik Nurrohman",
+    "login": "taufik-nurrohman",
+    "contributions": 2614,
+    "company": "@dte-project @mecha-cms",
+    "organizations": "mecha-cms,highlightjs,bootsblogger,staticallyio,dte-project,mesin-kasir"
+  },
+  {
+    "rank": 322,
+    "name": "Andy Librian",
+    "login": "andylibrian",
+    "contributions": 371,
+    "company": "",
+    "organizations": "sastrawi,laraiba"
+  },
+  {
+    "rank": 323,
+    "name": "Semmi Verian",
+    "login": "semmiverian",
+    "contributions": 2,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 324,
+    "name": "Rizki M Citra",
+    "login": "rizkimcitra",
+    "contributions": 484,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 325,
+    "name": "raditya gumay",
+    "login": "radityagumay",
+    "contributions": 27,
+    "company": "@gojek",
+    "organizations": ""
+  },
+  {
+    "rank": 326,
+    "name": "Ezra Khairan Permana",
+    "login": "reacto11mecha",
+    "contributions": 975,
+    "company": "",
+    "organizations": "sekilas13,Team-Up-Dev,bellshade,TarunaCode,ds-lang"
+  },
+  {
+    "rank": 327,
+    "name": "Kurniadi Ahmad Wijaya",
+    "login": "ShinyQ",
+    "contributions": 187,
+    "company": "Telkom University",
+    "organizations": ""
+  },
+  {
+    "rank": 328,
+    "name": "XENZI Official",
+    "login": "Aldi098",
+    "contributions": 31,
+    "company": "Xenzi",
+    "organizations": ""
+  },
+  {
+    "rank": 329,
+    "name": "",
+    "login": "adeyosemanputra",
+    "contributions": 137,
+    "company": "",
+    "organizations": "OWASP,securetea,Risk-Assessment-Framework"
+  },
+  {
+    "rank": 330,
+    "name": "Hendra Agil",
+    "login": "hendraaagil",
+    "contributions": 2016,
+    "company": "@xcidic",
+    "organizations": "saturdayclass,rpl-skandakra"
+  },
+  {
+    "rank": 331,
+    "name": "Anditya Arifianto",
+    "login": "adf-telkomuniv",
+    "contributions": 1,
+    "company": "Telkom University",
+    "organizations": "ASD-ADF,RAI-ADF,OOP-ADF,CNN-ADF"
+  },
+  {
+    "rank": 332,
+    "name": "Henry Augusta",
+    "login": "manyunyu7",
+    "contributions": 780,
+    "company": "Feylaboratory",
+    "organizations": ""
+  },
+  {
+    "rank": 333,
+    "name": "Muhammad Wahyudi",
+    "login": "ideapedyudi",
+    "contributions": 1044,
+    "company": "edifly solusi indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 334,
+    "name": "Muhammad Afifuddin Basyaiban",
+    "login": "afifbasya",
+    "contributions": 10,
+    "company": "WAHIDEV ACADEMY",
+    "organizations": ""
+  },
+  {
+    "rank": 335,
+    "name": "Fadli Maulana",
+    "login": "cacadosman",
+    "contributions": 80,
+    "company": "GDP Labs",
+    "organizations": "Aliansi-Siber-Gadjah-Mada"
+  },
+  {
+    "rank": 336,
+    "name": "Andrian Fadhilla",
+    "login": "andrianfaa",
+    "contributions": 187,
+    "company": "@anfaalabs",
+    "organizations": "Akatsuki-forks,devixid,anfaalabs,kodingkeun"
+  },
+  {
+    "rank": 337,
+    "name": "Muhammad Alfaiz Khisma Authar",
+    "login": "faizauthar12",
+    "contributions": 549,
+    "company": "",
+    "organizations": "Ferrari-Dev-Team,gdscug,sm6150-Samsung,MistarTwelve"
+  },
+  {
+    "rank": 338,
+    "name": "Dian Prawira",
+    "login": "abumaryam",
+    "contributions": 30,
+    "company": "Puredu Software Development",
+    "organizations": ""
+  },
+  {
+    "rank": 339,
+    "name": "Muhammad Fahriansyah",
+    "login": "fachryansyah",
+    "contributions": 1089,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 340,
+    "name": "Rico Imanta Ginting",
+    "login": "imantarico",
+    "contributions": 4,
+    "company": "kawalbisnis.com",
+    "organizations": ""
+  },
+  {
+    "rank": 341,
+    "name": "Hawari Muflih Munte",
+    "login": "hawariMuflihMunte",
+    "contributions": 4498,
+    "company": "@buatusahaindonesia",
+    "organizations": "uniicode-id"
+  },
+  {
+    "rank": 342,
+    "name": "Herpiko Dwi Aguno",
+    "login": "herpiko",
+    "contributions": 165,
+    "company": "@play3gg @BlankOn",
+    "organizations": "BlankOn,KodeKreatif,iojs-id,GLiBogor,letsgonesia,orcinustools,blankon-packages,LombokDev,gudangdolanan,pass3id"
+  },
+  {
+    "rank": 343,
+    "name": "ariffb",
+    "login": "ariffb25",
+    "contributions": 8,
+    "company": "Universitas Nusa Mandiri",
+    "organizations": ""
+  },
+  {
+    "rank": 344,
+    "name": "fiaz",
+    "login": "hifiaz",
+    "contributions": 931,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 345,
+    "name": "MrTamfanX",
+    "login": "MrTamfanX",
+    "contributions": 31,
+    "company": "BuitenzorgSyndicate",
+    "organizations": ""
+  },
+  {
+    "rank": 346,
+    "name": "Nur Muhammad 'Ainul Yaqin",
+    "login": "masnurrm",
+    "contributions": 449,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": "arsitektur-jaringan-komputer,Schematics-2021,livoc-id,lokapin-indonesia,ChaRum-Capstone-Project-Batch-3"
+  },
+  {
+    "rank": 347,
+    "name": "Adiatma Kamarudin",
+    "login": "adiatma",
+    "contributions": 0,
+    "company": "",
+    "organizations": "react-native-id,hammer-code,evilfactorylabs"
+  },
+  {
+    "rank": 348,
+    "name": "Prana Adiwira",
+    "login": "intrnl",
+    "contributions": 6068,
+    "company": "",
+    "organizations": "worklifebeyond,BetterDiscord,SmartASN"
+  },
+  {
+    "rank": 349,
+    "name": "Adhy Wiranata P",
+    "login": "adhywiranata",
+    "contributions": 958,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 350,
+    "name": "Eka",
+    "login": "ekafyi",
+    "contributions": 993,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 351,
+    "name": "ahmadrosid",
+    "login": "ahmadrosid",
+    "contributions": 2790,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 352,
+    "name": "Imbar Winata",
+    "login": "imbarwinata",
+    "contributions": 204,
+    "company": "@tiket",
+    "organizations": "millenial-engineer,Bareksa"
+  },
+  {
+    "rank": 353,
+    "name": "Syafa Adena",
+    "login": "gvoze32",
+    "contributions": 190,
+    "company": "Hobbyist",
+    "organizations": "bebasid"
+  },
+  {
+    "rank": 354,
+    "name": "Mohammad Jamil Asfihani",
+    "login": "mjamilasfihani",
+    "contributions": 2483,
+    "company": "Personal",
+    "organizations": ""
+  },
+  {
+    "rank": 355,
+    "name": "Aufa Billah",
+    "login": "aufaroot18",
+    "contributions": 1133,
+    "company": "@Tokopedia",
+    "organizations": "abraincode,pemirasttnf,yukhijrah,halalin-asia,seirama,ti2-posa-2018,sanggar-id"
+  },
+  {
+    "rank": 356,
+    "name": "abay",
+    "login": "abaykan",
+    "contributions": 51,
+    "company": "@c0delatte",
+    "organizations": "c0delatte,zerobyte-id,hackstreet1337"
+  },
+  {
+    "rank": 357,
+    "name": "yehezkielgunawan",
+    "login": "yehezkielgunawan",
+    "contributions": 2590,
+    "company": "@bobobox-id",
+    "organizations": ""
+  },
+  {
+    "rank": 358,
+    "name": "Elshe Erviana Angely",
+    "login": "elshiraphine",
+    "contributions": 511,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": ""
+  },
+  {
+    "rank": 359,
+    "name": "Ihsan M. A.",
+    "login": "ihsansaktia",
+    "contributions": 161,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 360,
+    "name": "Ade Viankakrisna Fadlil",
+    "login": "viankakrisna",
+    "contributions": 1997,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 361,
+    "name": "Afrijal Dzuhri",
+    "login": "afrijaldz",
+    "contributions": 213,
+    "company": "@wonogiridev @evilfactorylabs",
+    "organizations": "angular-indonesia,pondok-programmer,RackSpira,wonogiridev,evilfactorylabs,ma-pp,rails-id"
+  },
+  {
+    "rank": 362,
+    "name": "Zidan Rahmandani",
+    "login": "zidansec",
+    "contributions": 258,
+    "company": "@subangxploits",
+    "organizations": "subangxploits"
+  },
+  {
+    "rank": 363,
+    "name": "Vincent Guizot",
+    "login": "vincent-guizot",
+    "contributions": 151,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 364,
+    "name": "Rio Chandra",
+    "login": "RioChndr",
+    "contributions": 409,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 365,
+    "name": "Ketut Kumajaya",
+    "login": "kumajaya",
+    "contributions": 25,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 366,
+    "name": "IDStack",
+    "login": "idstck",
+    "contributions": 7,
+    "company": "IDStack",
+    "organizations": "codepolitanlab"
+  },
+  {
+    "rank": 367,
+    "name": "Doddy Rizal Novianto",
+    "login": "Drzaln",
+    "contributions": 375,
+    "company": "",
+    "organizations": "mbahe-creative"
+  },
+  {
+    "rank": 368,
+    "name": "Roy Aziz Barera",
+    "login": "LimitQueenProject",
+    "contributions": 117,
+    "company": 2019,
+    "organizations": ""
+  },
+  {
+    "rank": 369,
+    "name": "Warsono",
+    "login": "gravitano",
+    "contributions": 2971,
+    "company": "@gitsindonesia",
+    "organizations": "gitsindonesia,pingpong-labs"
+  },
+  {
+    "rank": 370,
+    "name": "Hafid Mukhlasin",
+    "login": "hscstudio",
+    "contributions": 24,
+    "company": "hscstudio",
+    "organizations": "kungfukoding"
+  },
+  {
+    "rank": 371,
+    "name": "Sainal Sultan",
+    "login": "sainalsultan",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 372,
+    "name": "Dimas Maulana",
+    "login": "dimasma0305",
+    "contributions": 945,
+    "company": "-",
+    "organizations": "TCP1P"
+  },
+  {
+    "rank": 373,
+    "name": "Ade Fajr Ariav",
+    "login": "iavtamvan",
+    "contributions": 224,
+    "company": "PDAM Kota Semarang",
+    "organizations": "iav1"
+  },
+  {
+    "rank": 374,
+    "name": "Bakhtiar Amaludin",
+    "login": "maziyank",
+    "contributions": 119,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 375,
+    "name": "StefansArya",
+    "login": "StefansArya",
+    "contributions": 960,
+    "company": "@ScarletsFiction, NekoNyaan",
+    "organizations": "EpicGames,ScarletsFiction,Blackprint"
+  },
+  {
+    "rank": 376,
+    "name": "Fadhil Darma Putera Zagoto",
+    "login": "crusherblack",
+    "contributions": 128,
+    "company": "IFG Life",
+    "organizations": ""
+  },
+  {
+    "rank": 377,
+    "name": "Auzan Assidqi",
+    "login": "auzanassdq",
+    "contributions": 237,
+    "company": "",
+    "organizations": "abraincode,dsc-id,hackartini,just-jormungandr,Cukurin,Night-Bootcamp"
+  },
+  {
+    "rank": 378,
+    "name": "Moh Latif",
+    "login": "mohlatif99",
+    "contributions": 0,
+    "company": "",
+    "organizations": "Mohlatif9"
+  },
+  {
+    "rank": 379,
+    "name": "Aulia Agustina",
+    "login": "auliaguss",
+    "contributions": 1,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 380,
+    "name": "tutorialinjectid",
+    "login": "Inject-ID",
+    "contributions": 11,
+    "company": "Hanya Manusia Biasa Yang Haus Akan Ilmu",
+    "organizations": ""
+  },
+  {
+    "rank": 381,
+    "name": "",
+    "login": "barunag",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 382,
+    "name": "",
+    "login": "Basari-ID",
+    "contributions": 610,
+    "company": "Jawa Tengah",
+    "organizations": ""
+  },
+  {
+    "rank": 383,
+    "name": "Dhimas Akbar Noor Baihaque",
+    "login": "dhimasanb",
+    "contributions": 280,
+    "company": "",
+    "organizations": "nodejs-indonesia,abraincode,angular-indonesia,react-native-id,mudengclub,daeng-id,pemirasttnf,yukhijrah,halalin-asia,Spensav,weblocker,relieve-id,sanggar-id"
+  },
+  {
+    "rank": 384,
+    "name": "Muhammad Hasan",
+    "login": "muhammadhasan01",
+    "contributions": 2010,
+    "company": "GoTo (Gojek Tokopedia) Financial",
+    "organizations": "cp-itb,hmif-itb,labproitb,codemy-hmif,Arkavidia-CP,ctf-itb,donmasha,ds-itb"
+  },
+  {
+    "rank": 385,
+    "name": "BAGUS BUDI SATOTO",
+    "login": "bagussatoto",
+    "contributions": 1620,
+    "company": "Universitas Amikom Yogyakarta",
+    "organizations": "bagus-satoto"
+  },
+  {
+    "rank": 386,
+    "name": "Maulana Rym",
+    "login": "MaulanaRyM",
+    "contributions": 0,
+    "company": "Army Cyber Network",
+    "organizations": ""
+  },
+  {
+    "rank": 387,
+    "name": "Aji Setya",
+    "login": "AjiSetya",
+    "contributions": 25,
+    "company": "@Islamic-Development-Network",
+    "organizations": "Islamic-Development-Network"
+  },
+  {
+    "rank": 388,
+    "name": "Haxors Programming Club",
+    "login": "haxorsprogramming",
+    "contributions": 75,
+    "company": "UIN-SU",
+    "organizations": ""
+  },
+  {
+    "rank": 389,
+    "name": "Muhammad Kevin",
+    "login": "GuckTubeYT",
+    "contributions": 247,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 390,
+    "name": "Wildan M",
+    "login": "willnode",
+    "contributions": 771,
+    "company": "",
+    "organizations": "forth-engine,wellosoft,domcloud"
+  },
+  {
+    "rank": 391,
+    "name": "Yudi Purwanto",
+    "login": "zhiephie",
+    "contributions": 4,
+    "company": "@TimexStudio",
+    "organizations": "GitIndonesia,libscode,WhitestormJS,rails-id"
+  },
+  {
+    "rank": 392,
+    "name": "Aimar Adhitya",
+    "login": "aimardcr",
+    "contributions": 198,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 393,
+    "name": "Muhammad Edwin",
+    "login": "edwin",
+    "contributions": 154,
+    "company": "@Baculsoft @RedHatOfficial",
+    "organizations": "JLPcommunity,baculsoft,JUG-Indonesia,jvmdeveloperid,IDDevOps"
+  },
+  {
+    "rank": 394,
+    "name": "Helmi Satria",
+    "login": "helmisatria",
+    "contributions": 548,
+    "company": "Indonesia's Govtech Education",
+    "organizations": "basisdatalab,natatoko"
+  },
+  {
+    "rank": 395,
+    "name": "Ipan Ardian",
+    "login": "ipanardian",
+    "contributions": 6,
+    "company": "",
+    "organizations": "nodejs-indonesia,swift-indonesia,CirebonDev"
+  },
+  {
+    "rank": 396,
+    "name": "Galih wisnuaji",
+    "login": "nekonako",
+    "contributions": 502,
+    "company": "",
+    "organizations": "GNUWeeb,WeebLab"
+  },
+  {
+    "rank": 397,
+    "name": "Reynaldi Siregar",
+    "login": "reysiregar",
+    "contributions": 59,
+    "company": "Veez Project",
+    "organizations": ""
+  },
+  {
+    "rank": 398,
+    "name": "Prasetyo",
+    "login": "praswicaksono",
+    "contributions": 572,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 399,
+    "name": "Aine",
+    "login": "Aiinne",
+    "contributions": 139,
+    "company": "Aine",
+    "organizations": ""
+  },
+  {
+    "rank": 400,
+    "name": "Nikko Enggaliano",
+    "login": "nikkoenggaliano",
+    "contributions": 140,
+    "company": "Callestasia",
+    "organizations": ""
+  },
+  {
+    "rank": 401,
+    "name": "Yahya Fadhlulloh Al-Fatih",
+    "login": "k1m0ch1",
+    "contributions": 55,
+    "company": "eFishery",
+    "organizations": ""
+  },
+  {
+    "rank": 402,
+    "name": "Yanuar Harry",
+    "login": "Squadzone",
+    "contributions": 0,
+    "company": "BMKG",
+    "organizations": "CyanMobile"
+  },
+  {
+    "rank": 403,
+    "name": "KY >_<",
+    "login": "kapten-kaizo",
+    "contributions": 10,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 404,
+    "name": "Xiao Yan?",
+    "login": "ImYanXiao",
+    "contributions": 908,
+    "company": "Pavilion Falling Star",
+    "organizations": ""
+  },
+  {
+    "rank": 405,
+    "name": "Cornellius Yudha Wijaya",
+    "login": "cornelliusyudhawijaya",
+    "contributions": 36,
+    "company": "@allianz",
+    "organizations": ""
+  },
+  {
+    "rank": 406,
+    "name": "Ahmad Amarullah",
+    "login": "amarullz",
+    "contributions": 777,
+    "company": "Jasa Marga Toll Operator",
+    "organizations": "aromadev,jmtodev"
+  },
+  {
+    "rank": 407,
+    "name": "Uwais Alqadri",
+    "login": "uwaisalqadri",
+    "contributions": 128,
+    "company": "nbs.co.id",
+    "organizations": ""
+  },
+  {
+    "rank": 408,
+    "name": "Van Lyubov",
+    "login": "dalpan",
+    "contributions": 38,
+    "company": "Tegalsec",
+    "organizations": "BugHunterID,tegal1337"
+  },
+  {
+    "rank": 409,
+    "name": "Petra Barus",
+    "login": "petrabarus",
+    "contributions": 1379,
+    "company": "",
+    "organizations": "tokilearning"
+  },
+  {
+    "rank": 410,
+    "name": "Diki Ananta",
+    "login": "dikiaap",
+    "contributions": 40,
+    "company": "",
+    "organizations": "opensourcedesign,DikiCook,bebasid"
+  },
+  {
+    "rank": 411,
+    "name": "Arie M. Prasetyo",
+    "login": "arisetyo",
+    "contributions": 2,
+    "company": "GoPlay Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 412,
+    "name": "Rama Bondan Prakoso",
+    "login": "rama982",
+    "contributions": 256,
+    "company": "",
+    "organizations": "Genom-Project"
+  },
+  {
+    "rank": 413,
+    "name": "Anonymous",
+    "login": "zeeoneofficial",
+    "contributions": 66,
+    "company": "Zeeone YouTube Official",
+    "organizations": ""
+  },
+  {
+    "rank": 414,
+    "name": "Ahmad Syarifuddin Randiko",
+    "login": "ddikodroid",
+    "contributions": 675,
+    "company": "Central Bank of Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 415,
+    "name": "Akbar Yahya",
+    "login": "akbaryahya",
+    "contributions": 614,
+    "company": "",
+    "organizations": "VolcanoYT"
+  },
+  {
+    "rank": 416,
+    "name": "Afif A. Iskandar",
+    "login": "afifai",
+    "contributions": 52,
+    "company": "Telkomsel",
+    "organizations": "ai-id"
+  },
+  {
+    "rank": 417,
+    "name": "Muhammad Afifudin",
+    "login": "afiiif",
+    "contributions": 499,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 418,
+    "name": "AmmarXploit",
+    "login": "AmmarrBN",
+    "contributions": 345,
+    "company": "@ExecutedTeam",
+    "organizations": ""
+  },
+  {
+    "rank": 419,
+    "name": "Juan Christian",
+    "login": "HotPotatoC",
+    "contributions": 512,
+    "company": "Bina Nusantara University",
+    "organizations": "tripantero,StudioKarsa,Stalync,G1GACHADS"
+  },
+  {
+    "rank": 420,
+    "name": "Finsa Nurpandi",
+    "login": "finsanurpandi",
+    "contributions": 70,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 421,
+    "name": "Randy Vianda Putra",
+    "login": "randyviandaputra",
+    "contributions": 141,
+    "company": "@evilfactorylabs",
+    "organizations": "react-native-id,swift-indonesia,risk-first,evilfactorylabs,BugHunterID,aweutist-dev,jamstackid,graphql-id,ajarinkoding,Sekolah-Frontend,denoland-id"
+  },
+  {
+    "rank": 422,
+    "name": "M Fikri Setiadi",
+    "login": "MFikri94",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 423,
+    "name": "Muhammad Athallah",
+    "login": "determinedguy",
+    "contributions": 1148,
+    "company": "Universitas Indonesia",
+    "organizations": "fesrakui,reflekt-io,OpenProjects-id,determinedguy-advprog-2022,pbp-fasilkom-ui"
+  },
+  {
+    "rank": 424,
+    "name": "Suendri",
+    "login": "suendri",
+    "contributions": 2,
+    "company": "Delitekno Media Mandiri",
+    "organizations": ""
+  },
+  {
+    "rank": 425,
+    "name": "Andra Antariksa",
+    "login": "andraantariksa",
+    "contributions": 5088,
+    "company": "@gadostudio",
+    "organizations": "gadostudio,TKA-Developments"
+  },
+  {
+    "rank": 426,
+    "name": "Arie Kurniawan",
+    "login": "arkrwn",
+    "contributions": 113,
+    "company": "GoTo Financial",
+    "organizations": "MuhammadiyahDeveloperClub"
+  },
+  {
+    "rank": 427,
+    "name": "Willy Sudiarto Raharjo",
+    "login": "willysr",
+    "contributions": 2066,
+    "company": "",
+    "organizations": "mate-desktop,mateslackbuilds,sbopkg,SlackBuildsOrg,CinnamonSlackBuilds,ftiukdw,id-opensource-guide"
+  },
+  {
+    "rank": 428,
+    "name": "Muh. Rahmatullah",
+    "login": "muhrahmatullah",
+    "contributions": 23,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 429,
+    "name": "",
+    "login": "ramadhanhabibi",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 430,
+    "name": "Mr.TamfanX",
+    "login": "Anonymous3-SIT",
+    "contributions": 0,
+    "company": "Universitas Hacker Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 431,
+    "name": "Eko Suprapto Wibowo",
+    "login": "swdevbali",
+    "contributions": 95,
+    "company": "Pythonthusiast",
+    "organizations": ""
+  },
+  {
+    "rank": 432,
+    "name": "Hanif Ahmad Syauqi",
+    "login": "MRHRTZ",
+    "contributions": 326,
+    "company": "KodeMaya",
+    "organizations": ""
+  },
+  {
+    "rank": 433,
+    "name": "Faza Iman Imron",
+    "login": "fazaimron27",
+    "contributions": 670,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 434,
+    "name": "Tri Wanda Septian",
+    "login": "twseptian",
+    "contributions": 49,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 435,
+    "name": "Badar Wildani",
+    "login": "wildanie12",
+    "contributions": 1056,
+    "company": "",
+    "organizations": "bellshade,KonferensiHantuProject"
+  },
+  {
+    "rank": 436,
+    "name": "Sirilius Kevin",
+    "login": "sirilius",
+    "contributions": 129,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 437,
+    "name": "Zidan_IDz",
+    "login": "Zidan-ID17",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 438,
+    "name": "Bayu Satiyo",
+    "login": "kiraio-moe",
+    "contributions": 203,
+    "company": "@ailidev / @Visual-Novel-Indonesia",
+    "organizations": "ailidev"
+  },
+  {
+    "rank": 439,
+    "name": "Mudassir",
+    "login": "Lzyct",
+    "contributions": 843,
+    "company": "@ikhlasdotcom",
+    "organizations": ""
+  },
+  {
+    "rank": 440,
+    "name": "Neno Arisma",
+    "login": "nenofetch",
+    "contributions": 554,
+    "company": "@radeptrr",
+    "organizations": ""
+  },
+  {
+    "rank": 441,
+    "name": "wuriyanto",
+    "login": "wuriyanto48",
+    "contributions": 790,
+    "company": "",
+    "organizations": "golangid,musobarlab,telkomdev,x-compat,denokdev,lowlevelid"
+  },
+  {
+    "rank": 442,
+    "name": "Nauval Rizky",
+    "login": "nullxception",
+    "contributions": 1464,
+    "company": "@chaldeaprjkt",
+    "organizations": "DerpFest-Devices,chaldeaprjkt,Nusantara-ROM,BiancaProject"
+  },
+  {
+    "rank": 443,
+    "name": "Rayhan Kinan Muhannad",
+    "login": "rayhankinan",
+    "contributions": 1766,
+    "company": "Bandung Institute of Technology",
+    "organizations": ""
+  },
+  {
+    "rank": 444,
+    "name": "Merta Herzarika",
+    "login": "Herzarika",
+    "contributions": 56,
+    "company": "Herzarika",
+    "organizations": ""
+  },
+  {
+    "rank": 445,
+    "name": "Heikal Syah Shiddiq",
+    "login": "SlavyanDesu",
+    "contributions": 355,
+    "company": "@IndonesianDev",
+    "organizations": "IndonesianDev,Aviella-Production"
+  },
+  {
+    "rank": 446,
+    "name": "Akas Wisnu Aji",
+    "login": "justakazh",
+    "contributions": 2580,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 447,
+    "name": "Sutanto Gasali",
+    "login": "BionStt",
+    "contributions": 253,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 448,
+    "name": "Muhammad Farid Zia",
+    "login": "mfaridzia",
+    "contributions": 1,
+    "company": "@eFishery",
+    "organizations": "F201,helloproclub,lombokjs,gsocindonesia,labexperiment,denoland-id,Loteng-Dev"
+  },
+  {
+    "rank": 449,
+    "name": "Fajar Firdaus",
+    "login": "FajarTheGGman",
+    "contributions": 3639,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 450,
+    "name": "Nurcholis",
+    "login": "cholis04",
+    "contributions": 641,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 451,
+    "name": "アックラ Muhammad Acla",
+    "login": "Aclaputra",
+    "contributions": 1021,
+    "company": "PT. Shopee International Indonesia",
+    "organizations": "HIMTIF-Raharja,Bangkit-Capstone-C22-CB03-Team,megalogic-id"
+  },
+  {
+    "rank": 452,
+    "name": "KiZakiXD",
+    "login": "KiZakiXD",
+    "contributions": 316,
+    "company": "Kudus",
+    "organizations": ""
+  },
+  {
+    "rank": 453,
+    "name": "Rahmat Agung Julians",
+    "login": "rahmatagungj",
+    "contributions": 2168,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 454,
+    "name": "Wina Tungmiharja",
+    "login": "winatungmiharja",
+    "contributions": 908,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": "KeerjainSH"
+  },
+  {
+    "rank": 455,
+    "name": "Kukuh Syafaat",
+    "login": "cho2",
+    "contributions": 1288,
+    "company": "",
+    "organizations": "opensourcedesign,fossasia,flathub"
+  },
+  {
+    "rank": 456,
+    "name": "Sofyan Setiawan",
+    "login": "sofyansetiawan",
+    "contributions": 76,
+    "company": "@hacktiv8",
+    "organizations": ""
+  },
+  {
+    "rank": 457,
+    "name": "Agus Cahyono",
+    "login": "balitax",
+    "contributions": 35,
+    "company": "Stockbit",
+    "organizations": ""
+  },
+  {
+    "rank": 458,
+    "name": "Eding Muhamad",
+    "login": "edomaru",
+    "contributions": 160,
+    "company": "TutsPrime",
+    "organizations": ""
+  },
+  {
+    "rank": 459,
+    "name": "Whyme",
+    "login": "nodexcapital",
+    "contributions": 866,
+    "company": "NodeX Emperor, LLC",
+    "organizations": "nodexemperor"
+  },
+  {
+    "rank": 460,
+    "name": "Made Indra",
+    "login": "madeindra",
+    "contributions": 689,
+    "company": "",
+    "organizations": "telkomdev,binar-fullstack,Binar-Fullstack-Web,madecanggih"
+  },
+  {
+    "rank": 461,
+    "name": "MFarelS",
+    "login": "MFarelS",
+    "contributions": 54,
+    "company": "MFarelS.ID",
+    "organizations": ""
+  },
+  {
+    "rank": 462,
+    "name": "Zark Zaraida",
+    "login": "ZarkZaraida",
+    "contributions": 30,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 463,
+    "name": "Muhammad Aswan Syahputra",
+    "login": "aswansyahputra",
+    "contributions": 33,
+    "company": "Sekolah.mu",
+    "organizations": ""
+  },
+  {
+    "rank": 464,
+    "name": "Pavel Evstigneev",
+    "login": "Paxa",
+    "contributions": 13,
+    "company": "Gojek",
+    "organizations": "veritrans"
+  },
+  {
+    "rank": 465,
+    "name": "Adam Ramadhan",
+    "login": "adamramadhan",
+    "contributions": 86,
+    "company": "",
+    "organizations": "indonesia,wamplo,netcoid"
+  },
+  {
+    "rank": 466,
+    "name": "Dhi Aurrahman",
+    "login": "dio",
+    "contributions": 2341,
+    "company": "",
+    "organizations": "envoyproxy"
+  },
+  {
+    "rank": 467,
+    "name": "Binsar Dwi Jasuma",
+    "login": "binsarjr",
+    "contributions": 3792,
+    "company": "@indosec-id @jogjacybersec @neuversity",
+    "organizations": "musabatechnopark,indosec-id,bagus-satoto,jogjacybersec"
+  },
+  {
+    "rank": 468,
+    "name": "Amr Satrio",
+    "login": "Amrsatrio",
+    "contributions": 286,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 469,
+    "name": "Fikri Maulana",
+    "login": "fikrimln16",
+    "contributions": 1216,
+    "company": "Universitas Telkom",
+    "organizations": ""
+  },
+  {
+    "rank": 470,
+    "name": "I Made Ocy Darma Putra",
+    "login": "troke12",
+    "contributions": 275,
+    "company": "@osu-datenshi @ITSECAsia",
+    "organizations": "fossasia,EpicGames,GitIndonesia,osu-Indonesia-Contributors,GOVER-IT,osu-datenshi,troke-covid"
+  },
+  {
+    "rank": 471,
+    "name": "XENZI GANZZ",
+    "login": "Xenzi-XN1",
+    "contributions": 195,
+    "company": "Xenzi",
+    "organizations": ""
+  },
+  {
+    "rank": 472,
+    "name": "Alfian Andi Nugraha",
+    "login": "alfianandinugraha",
+    "contributions": 1715,
+    "company": "@Kedata-Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 473,
+    "name": "Ar Firman Syahputra",
+    "login": "arfirman1402",
+    "contributions": 0,
+    "company": "@bukalapak",
+    "organizations": ""
+  },
+  {
+    "rank": 474,
+    "name": "JustLazzy",
+    "login": "JustLazzy",
+    "contributions": 473,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 475,
+    "name": "Teofilus Candra",
+    "login": "teofiluscandra",
+    "contributions": 14,
+    "company": "",
+    "organizations": "BaliJS,DevCBali,BDIDenpasarBCIC,kalabali"
+  },
+  {
+    "rank": 476,
+    "name": "Ahmad Farisi",
+    "login": "ahmfarisi",
+    "contributions": 317,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 477,
+    "name": "Raihan Nismara",
+    "login": "raihan71",
+    "contributions": 182,
+    "company": "Codex by Telkom",
+    "organizations": ""
+  },
+  {
+    "rank": 478,
+    "name": "Igor Berlenko",
+    "login": "7flash",
+    "contributions": 378,
+    "company": "Telegram @galaxygur",
+    "organizations": ""
+  },
+  {
+    "rank": 479,
+    "name": "Hafiz Ramadhan",
+    "login": "rmdhfz",
+    "contributions": 1112,
+    "company": "PT. Trans Hybrid Communication, Tbk.",
+    "organizations": ""
+  },
+  {
+    "rank": 480,
+    "name": "Azhar Rizki Zulma",
+    "login": "AzharRizky",
+    "contributions": 1007,
+    "company": "SY Systems Co. Ltd Japan | @Mineversal",
+    "organizations": "Mineversal,Aoniz,Usakti,DSCTrisakti,Aranyacala"
+  },
+  {
+    "rank": 481,
+    "name": "Rivas Frits Sasia",
+    "login": "fritssasia",
+    "contributions": 142,
+    "company": "@HevaDevelop @CodelxID @maxteroit @ManguniCyberTroops",
+    "organizations": "C0D1NG,codelxid"
+  },
+  {
+    "rank": 482,
+    "name": "Edrian Hadinata",
+    "login": "edrianhadinata",
+    "contributions": 2,
+    "company": "University of Harapan Medan",
+    "organizations": ""
+  },
+  {
+    "rank": 483,
+    "name": "faultables",
+    "login": "faultables",
+    "contributions": 205,
+    "company": "@evilfactorylabs",
+    "organizations": "evilfactorylabs,KomuNix"
+  },
+  {
+    "rank": 484,
+    "name": "Syafrial Zulmi",
+    "login": "syafrialzulmi",
+    "contributions": 204,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 485,
+    "name": "Muhammad Sobri Maulana",
+    "login": "sobri3195",
+    "contributions": 70,
+    "company": "Dokter Hacker Entrepreneur",
+    "organizations": ""
+  },
+  {
+    "rank": 486,
+    "name": "wid",
+    "login": "widnyana",
+    "contributions": 273,
+    "company": "",
+    "organizations": "redite"
+  },
+  {
+    "rank": 487,
+    "name": "Faqih Muntashir",
+    "login": "itsfaqih",
+    "contributions": 1043,
+    "company": "Jatis Mobile",
+    "organizations": "ruine-dev"
+  },
+  {
+    "rank": 488,
+    "name": "Hazmi35",
+    "login": "Hazmi35",
+    "contributions": 1538,
+    "company": "",
+    "organizations": "EpicGames,frutbits,jDevxyz,hzmifork,GNUWeeb,tuneorg"
+  },
+  {
+    "rank": 489,
+    "name": "Muktazam Hasbi Ashidiqi",
+    "login": "reorr",
+    "contributions": 80,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 490,
+    "name": "RIzki Syaputra",
+    "login": "rizkipm",
+    "contributions": 0,
+    "company": "@Udacoding",
+    "organizations": ""
+  },
+  {
+    "rank": 491,
+    "name": "Misbahul D Munir",
+    "login": "mdmunir",
+    "contributions": 19,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 492,
+    "name": "Samuel",
+    "login": "diosamuel",
+    "contributions": 384,
+    "company": "Earth",
+    "organizations": ""
+  },
+  {
+    "rank": 493,
+    "name": "Anggriawan Marchvici Ridatama",
+    "login": "anggriawanmr",
+    "contributions": 834,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 494,
+    "name": "Septian A Tama",
+    "login": "tamatamvan",
+    "contributions": 412,
+    "company": "",
+    "organizations": "partneran"
+  },
+  {
+    "rank": 495,
+    "name": "Reyhan Sofian",
+    "login": "reyhansofian",
+    "contributions": 313,
+    "company": "@efishery",
+    "organizations": "facebook-developer-circle-malang"
+  },
+  {
+    "rank": 496,
+    "name": "Aditya Rohman",
+    "login": "codestronaut",
+    "contributions": 126,
+    "company": "@codestronautHub",
+    "organizations": "codestronautHub"
+  },
+  {
+    "rank": 497,
+    "name": "headxeol",
+    "login": "headxeol",
+    "contributions": 9,
+    "company": "bcgang",
+    "organizations": ""
+  },
+  {
+    "rank": 498,
+    "name": "Martinus Suherman",
+    "login": "martinussuherman",
+    "contributions": 209,
+    "company": "Self employed",
+    "organizations": ""
+  },
+  {
+    "rank": 499,
+    "name": "Ifnu Bima",
+    "login": "ifnu",
+    "contributions": 9,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 500,
+    "name": "Hasanudin H Syafaat",
+    "login": "banghasan",
+    "contributions": 0,
+    "company": "Kamar",
+    "organizations": ""
+  },
+  {
+    "rank": 501,
+    "name": "Rakhmad Azhari",
+    "login": "rakhmad",
+    "contributions": 19,
+    "company": "Redhat",
+    "organizations": ""
+  },
+  {
+    "rank": 502,
+    "name": "Ariaseta Setia Alam",
+    "login": "ariaseta",
+    "contributions": 63,
+    "company": "KodingWorks",
+    "organizations": "smpn1smg,kodingworks"
+  },
+  {
+    "rank": 503,
+    "name": "Achmad Qomarudin",
+    "login": "achmadqomarudin",
+    "contributions": 3,
+    "company": "Sky Art Studio",
+    "organizations": ""
+  },
+  {
+    "rank": 504,
+    "name": "Intan Aprilian Denasari",
+    "login": "intanaprilian",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 505,
+    "name": "Bug7sec Team",
+    "login": "bug7sec",
+    "contributions": 0,
+    "company": "",
+    "organizations": "BUG7SECorg"
+  },
+  {
+    "rank": 506,
+    "name": "Teddy Zugana",
+    "login": "kevinmel2000",
+    "contributions": 17,
+    "company": "Company Of heroes",
+    "organizations": ""
+  },
+  {
+    "rank": 507,
+    "name": "Alam",
+    "login": "rizkyalam",
+    "contributions": 21,
+    "company": "PuTI Telkom University",
+    "organizations": ""
+  },
+  {
+    "rank": 508,
+    "name": "Radja Aditya Chandra",
+    "login": "MrGreat021",
+    "contributions": 2,
+    "company": "Universitas Teuku Umar",
+    "organizations": ""
+  },
+  {
+    "rank": 509,
+    "name": "Andhika Yuana",
+    "login": "andhikayuana",
+    "contributions": 211,
+    "company": "DANA",
+    "organizations": "phpjogloraya,PUTIndonesia,ajaroid"
+  },
+  {
+    "rank": 510,
+    "name": "Firmansyah Helmi Kurniawan",
+    "login": "FirmanKurniawan",
+    "contributions": 1073,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 511,
+    "name": "Ferry Kirdan Agustin",
+    "login": "ipkzone",
+    "contributions": 191,
+    "company": "New Phreaker Ababil",
+    "organizations": ""
+  },
+  {
+    "rank": 512,
+    "name": "R. Kukuh",
+    "login": "rkukuh",
+    "contributions": 312,
+    "company": "",
+    "organizations": "sastrawi,bukankalengkaleng,swift-id"
+  },
+  {
+    "rank": 513,
+    "name": "Rifki Fauzi",
+    "login": "kubido",
+    "contributions": 295,
+    "company": "@Constructor-io",
+    "organizations": ""
+  },
+  {
+    "rank": 514,
+    "name": "Dennis Alund",
+    "login": "DennisAlund",
+    "contributions": 1455,
+    "company": "Founder of @oddbit and Google Developers Expert - Firebase",
+    "organizations": "oddbit,kumpul,YesmomFertilityApp"
+  },
+  {
+    "rank": 515,
+    "name": "flutter.id",
+    "login": "flutterdotid",
+    "contributions": 12,
+    "company": "MAULANA ILHAM",
+    "organizations": ""
+  },
+  {
+    "rank": 516,
+    "name": "Kharisma Rizqi",
+    "login": "kharismarizqii",
+    "contributions": 609,
+    "company": "@traveloka",
+    "organizations": "traveloka"
+  },
+  {
+    "rank": 517,
+    "name": "Reinaldy Rafli",
+    "login": "aldy505",
+    "contributions": 3141,
+    "company": "",
+    "organizations": "tinyhttp,teknologi-umum,TokoBapak"
+  },
+  {
+    "rank": 518,
+    "name": "Jong Eun Lee",
+    "login": "yomybaby",
+    "contributions": 168,
+    "company": "Lablup Inc.",
+    "organizations": "tidevkr,creativecommonskorea,yoda-united,lablup"
+  },
+  {
+    "rank": 519,
+    "name": "Daeng Muhammad Feisal",
+    "login": "daengdoang",
+    "contributions": 0,
+    "company": "",
+    "organizations": "uxindonesia,XPRSV,cashbacdesign,mondo-id"
+  },
+  {
+    "rank": 520,
+    "name": "Fajrul Falah",
+    "login": "fajrulfx",
+    "contributions": 172,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 521,
+    "name": "Agung Sugiarto",
+    "login": "agungsugiarto",
+    "contributions": 640,
+    "company": "@OpenSID OpenDesa",
+    "organizations": "OpenSID"
+  },
+  {
+    "rank": 522,
+    "name": "Steven 'Viel' Nataniel",
+    "login": "ravielze",
+    "contributions": 357,
+    "company": "Institut Teknologi Bandung",
+    "organizations": "hmif-itb,arkavidia-hmif,Pengenalan-Komputasi-ITB,WLC-ID,paradewisudaitb,Jarvis-TechID,KATITB22"
+  },
+  {
+    "rank": 523,
+    "name": "MJ",
+    "login": "lintangtimur",
+    "contributions": 520,
+    "company": "",
+    "organizations": "Pinternship"
+  },
+  {
+    "rank": 524,
+    "name": "Naufal Aldy Pradana",
+    "login": "blitzkz23",
+    "contributions": 893,
+    "company": "Dian Nuswantoro University",
+    "organizations": ""
+  },
+  {
+    "rank": 525,
+    "name": "Muhammad Rezky Sulihin",
+    "login": "mrezkys",
+    "contributions": 345,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 526,
+    "name": "Adit",
+    "login": "Aditmadzs",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 527,
+    "name": "Dimas Maryanto",
+    "login": "dimMaryanto93",
+    "contributions": 729,
+    "company": "@tabeldatadotcom",
+    "organizations": ""
+  },
+  {
+    "rank": 528,
+    "name": "Fikri Suheri",
+    "login": "fikrisuheri",
+    "contributions": 21,
+    "company": "Fikri Suheri",
+    "organizations": ""
+  },
+  {
+    "rank": 529,
+    "name": "Dzikri Aziz",
+    "login": "kucrut",
+    "contributions": 890,
+    "company": "@humanmade",
+    "organizations": "wp-id"
+  },
+  {
+    "rank": 530,
+    "name": "Kylix Eza S",
+    "login": "KylixEza",
+    "contributions": 1393,
+    "company": "University of Brawijaya",
+    "organizations": ""
+  },
+  {
+    "rank": 531,
+    "name": "Achmad Mahardi",
+    "login": "maman",
+    "contributions": 1357,
+    "company": "@sayurbox",
+    "organizations": ""
+  },
+  {
+    "rank": 532,
+    "name": "Tokotype",
+    "login": "tokotype",
+    "contributions": 35,
+    "company": "Tokotype",
+    "organizations": ""
+  },
+  {
+    "rank": 533,
+    "name": "Purwanto",
+    "login": "purwnt",
+    "contributions": 297,
+    "company": "",
+    "organizations": "belajarpythoncom,javascript-tutorial"
+  },
+  {
+    "rank": 534,
+    "name": "Yehezkiel Dio",
+    "login": "elizielx",
+    "contributions": 201,
+    "company": "Universitas Mulia",
+    "organizations": "astrantialabs"
+  },
+  {
+    "rank": 535,
+    "name": "M. Hafid Masruri",
+    "login": "hafidzdev17",
+    "contributions": 2323,
+    "company": "@xetia-blockchain",
+    "organizations": ""
+  },
+  {
+    "rank": 536,
+    "name": "Akhmad Salafudin",
+    "login": "axmad386",
+    "contributions": 1405,
+    "company": "@semarangplaza , @kodepandai",
+    "organizations": ""
+  },
+  {
+    "rank": 537,
+    "name": "weizlee",
+    "login": "crazyrat65",
+    "contributions": 4,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 538,
+    "name": "Papah-Chan",
+    "login": "FahriAdison",
+    "contributions": 580,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 539,
+    "name": "Janu Yoga",
+    "login": "osyduck",
+    "contributions": 104,
+    "company": "Student",
+    "organizations": ""
+  },
+  {
+    "rank": 540,
+    "name": "Faishal AR",
+    "login": "Isallkun",
+    "contributions": 8034,
+    "company": "",
+    "organizations": "pasuruandev,kodingkeun,Humanika-Projects"
+  },
+  {
+    "rank": 541,
+    "name": "Ahmad Oriza",
+    "login": "gemblue",
+    "contributions": 959,
+    "company": "Codepolitan",
+    "organizations": "codepolitanlab,o2system"
+  },
+  {
+    "rank": 542,
+    "name": "Alfi Maulana",
+    "login": "threeal",
+    "contributions": 5950,
+    "company": "@lumina-inc",
+    "organizations": "ichiro-its,b201lab,threeal-archive"
+  },
+  {
+    "rank": 543,
+    "name": "Alvin Kristanto",
+    "login": "alvinkl",
+    "contributions": 0,
+    "company": "@Xendit",
+    "organizations": "freeCodeCamp"
+  },
+  {
+    "rank": 544,
+    "name": "Sami Kalammallah",
+    "login": "SamX23",
+    "contributions": 1281,
+    "company": "@Mazecare",
+    "organizations": "private-ngoding-club"
+  },
+  {
+    "rank": 545,
+    "name": "Mika Cybertron",
+    "login": "MikaCybertron",
+    "contributions": 363,
+    "company": "Platinmods",
+    "organizations": ""
+  },
+  {
+    "rank": 546,
+    "name": "Meysam",
+    "login": "meysam81",
+    "contributions": 2111,
+    "company": "@licenseware",
+    "organizations": ""
+  },
+  {
+    "rank": 547,
+    "name": "Imam Digmi",
+    "login": "imamdigmi",
+    "contributions": 1,
+    "company": "Digmi",
+    "organizations": "orcinustools,rustid,digmi-id,hmjsi,QueryLix"
+  },
+  {
+    "rank": 548,
+    "name": "Ade Yahya Prasetyo",
+    "login": "adeyahya",
+    "contributions": 880,
+    "company": "",
+    "organizations": "probolinggo-dev,warmbyte"
+  },
+  {
+    "rank": 549,
+    "name": "Iskandar Soesman",
+    "login": "ikandars",
+    "contributions": 36,
+    "company": "@awanio",
+    "organizations": "awanio"
+  },
+  {
+    "rank": 550,
+    "name": "indri j",
+    "login": "indrijunanda",
+    "contributions": 650,
+    "company": "@kiiskominfokepri",
+    "organizations": ""
+  },
+  {
+    "rank": 551,
+    "name": "Wildan A.",
+    "login": "siabang35",
+    "contributions": 152,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 552,
+    "name": "Budy",
+    "login": "teknosains",
+    "contributions": 177,
+    "company": "PT. Solusi Data Pratama",
+    "organizations": ""
+  },
+  {
+    "rank": 553,
+    "name": "akbarwibawa",
+    "login": "akbarwibawa",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 554,
+    "name": "Peter Kambey",
+    "login": "peterjkambey",
+    "contributions": 1,
+    "company": "Tekno Bareng Peter",
+    "organizations": ""
+  },
+  {
+    "rank": 555,
+    "name": "Imamuzzaki Abu Salam",
+    "login": "ImBIOS",
+    "contributions": 2046,
+    "company": "",
+    "organizations": "itmi-id,idn-itfest-2021,dzikirqu,CardusApp"
+  },
+  {
+    "rank": 556,
+    "name": "Huda Damar",
+    "login": "hudadamar21",
+    "contributions": 1743,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 557,
+    "name": "Hakko Bio Richard",
+    "login": "acchoblues",
+    "contributions": 0,
+    "company": "NiqoWeb Cikarang",
+    "organizations": ""
+  },
+  {
+    "rank": 558,
+    "name": "Ardha",
+    "login": "ardha27",
+    "contributions": 420,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 559,
+    "name": "Muhammad Iqbal Firdaus",
+    "login": "ikbakk",
+    "contributions": 781,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 560,
+    "name": "Adith Widya Pradipta",
+    "login": "adithwip",
+    "contributions": 116,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 561,
+    "name": "Ahmad Wijaya",
+    "login": "cibofdevs",
+    "contributions": 486,
+    "company": "TIMWETECH",
+    "organizations": ""
+  },
+  {
+    "rank": 562,
+    "name": "Bagus Bayu Sasongko",
+    "login": "yoihenken",
+    "contributions": 20,
+    "company": "IT Telkom Purwokerto",
+    "organizations": "Jagongan-Software-Engineering,Kaede-No-Ki"
+  },
+  {
+    "rank": 563,
+    "name": "Arifin Firdaus",
+    "login": "arifinfrds",
+    "contributions": 1173,
+    "company": "@learnmakeapp",
+    "organizations": "RaionCommunityFILKOMUB"
+  },
+  {
+    "rank": 564,
+    "name": "Edi Kurniawan",
+    "login": "edicybereye",
+    "contributions": 19,
+    "company": "PT. Kasyr Sibernetika Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 565,
+    "name": "Aguel Satria Wijaya",
+    "login": "LERUfic",
+    "contributions": 13,
+    "company": "@ajaibid",
+    "organizations": "arsitektur-jaringan-komputer"
+  },
+  {
+    "rank": 566,
+    "name": "Manda Putra",
+    "login": "mandaputtra",
+    "contributions": 1251,
+    "company": "Zero One Group",
+    "organizations": "date-fns,vuejs-id,Research-in-Automation"
+  },
+  {
+    "rank": 567,
+    "name": "Nate Smith",
+    "login": "smit1678",
+    "contributions": 2,
+    "company": "@hotosm",
+    "organizations": "who-ocr,globalresiliencepartnership,openimagerynetwork"
+  },
+  {
+    "rank": 568,
+    "name": "Andri",
+    "login": "andriyadi",
+    "contributions": 9,
+    "company": "DycodeX",
+    "organizations": ""
+  },
+  {
+    "rank": 569,
+    "name": "Gifa Eriyanto",
+    "login": "gifaeriyanto",
+    "contributions": 1580,
+    "company": "Spenmo",
+    "organizations": ""
+  },
+  {
+    "rank": 570,
+    "name": "Damar Zaky",
+    "login": "damzaky",
+    "contributions": 30,
+    "company": "@bukalapak",
+    "organizations": "helloproclub,Genwis,informatika5,kultubay"
+  },
+  {
+    "rank": 571,
+    "name": "adwitama",
+    "login": "adwitama",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 572,
+    "name": "Lalu Erfandi Maula Yusnu",
+    "login": "nunenuh",
+    "contributions": 1954,
+    "company": "PT. Tigapilar Maju Mandiri",
+    "organizations": "LombokDev,tigapilarmandiri"
+  },
+  {
+    "rank": 573,
+    "name": "Rafli Surya P",
+    "login": "RSurya99",
+    "contributions": 1830,
+    "company": "@Roketin",
+    "organizations": "osu-datenshi,MeowProject,Nyanteuy-Tech,JCC-Intensive-Phase,self-learnary"
+  },
+  {
+    "rank": 574,
+    "name": "Tri Ahmad Irfan",
+    "login": "irff",
+    "contributions": 14,
+    "company": "GudangAda",
+    "organizations": "RistekCSUI,stoqotech"
+  },
+  {
+    "rank": 575,
+    "name": "Annisaa Utami",
+    "login": "auttmme",
+    "contributions": 150,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 576,
+    "name": "M.Fazri Nizar",
+    "login": "mfazrinizar",
+    "contributions": 11,
+    "company": "",
+    "organizations": "XiuzCode"
+  },
+  {
+    "rank": 577,
+    "name": "Fiqri Ardyansyah",
+    "login": "fiqri19102002",
+    "contributions": 464,
+    "company": "@GNUWeeb",
+    "organizations": "STRIX-Project"
+  },
+  {
+    "rank": 578,
+    "name": "Hasan Basri",
+    "login": "CreatorB",
+    "contributions": 199,
+    "company": "Freelancer",
+    "organizations": "hacktoolkit,Quora-Users,GitIndonesia,mumun-athon,Py-Contributors,mandatech"
+  },
+  {
+    "rank": 579,
+    "name": "M.Noermoehammad",
+    "login": "cakmoel",
+    "contributions": 327,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 580,
+    "name": "Arief T Bagus (TB)",
+    "login": "arieftb",
+    "contributions": 136,
+    "company": "SALT Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 581,
+    "name": "Riva Farabi",
+    "login": "rivafarabi",
+    "contributions": 28,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 582,
+    "name": "Revan AR",
+    "login": "revan-ar",
+    "contributions": 41,
+    "company": "",
+    "organizations": "exploiterid,indosec-id,The-Great-Ape"
+  },
+  {
+    "rank": 583,
+    "name": "Rahmat adha",
+    "login": "MR-X-junior",
+    "contributions": 59,
+    "company": "",
+    "organizations": "User-Termux"
+  },
+  {
+    "rank": 584,
+    "name": "Rizqy Hidayat",
+    "login": "rizqyhi",
+    "contributions": 1886,
+    "company": "@dicoding-dev",
+    "organizations": "amccamikom,dicoding-dev"
+  },
+  {
+    "rank": 585,
+    "name": "Haidar Afif Maulana",
+    "login": "haidarafif0809",
+    "contributions": 0,
+    "company": "@andaglos",
+    "organizations": ""
+  },
+  {
+    "rank": 586,
+    "name": "༺ Initial H ༻",
+    "login": "alsyundawy",
+    "contributions": 565,
+    "company": "SysAdmin.My.Id",
+    "organizations": ""
+  },
+  {
+    "rank": 587,
+    "name": "Mychael Go",
+    "login": "mychaelgo",
+    "contributions": 2155,
+    "company": "@xendit",
+    "organizations": "xendit,hipcar,ezybook,bimbelsmarter,Cuanz,cahaya-mulia"
+  },
+  {
+    "rank": 588,
+    "name": "Fajrian Aidil Pratama",
+    "login": "ryanaidilp",
+    "contributions": 1175,
+    "company": "@banua-coder",
+    "organizations": "bps-pinrang"
+  },
+  {
+    "rank": 589,
+    "name": "Ahmad Anshorimuslim Syuhada",
+    "login": "ans-4175",
+    "contributions": 688,
+    "company": "Delegasi-Tech",
+    "organizations": "eFishery"
+  },
+  {
+    "rank": 590,
+    "name": "Ryan Nixon Salim",
+    "login": "drgx",
+    "contributions": 1515,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 591,
+    "name": "Sumendra",
+    "login": "Skyproject12",
+    "contributions": 1,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 592,
+    "name": "Adipatiarya",
+    "login": "adipatiarya",
+    "contributions": 46,
+    "company": "AryaStudio",
+    "organizations": ""
+  },
+  {
+    "rank": 593,
+    "name": "Sucipto",
+    "login": "suciptoid",
+    "contributions": 2102,
+    "company": "@PringStudio",
+    "organizations": "EpicGames,PringStudio,bgli,apikweb"
+  },
+  {
+    "rank": 594,
+    "name": "eMHa",
+    "login": "mheriyanto",
+    "contributions": 601,
+    "company": "",
+    "organizations": "modeling-inversion-lab,ezygeo-ai,Alhazenet,bwi45"
+  },
+  {
+    "rank": 595,
+    "name": "Baby Aisha Maritza Virginia",
+    "login": "LuminetteBourgeons",
+    "contributions": 10,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 596,
+    "name": "Adityo Pratomo",
+    "login": "lunchboxav",
+    "contributions": 44,
+    "company": "@labtek-indie",
+    "organizations": ""
+  },
+  {
+    "rank": 597,
+    "name": "Cristopher",
+    "login": "Namchee",
+    "contributions": 1410,
+    "company": "@glair-ai",
+    "organizations": ""
+  },
+  {
+    "rank": 598,
+    "name": "Gifaldy Azka",
+    "login": "gifaldyazkaa",
+    "contributions": 22205,
+    "company": "@vrtpro, @vzetaa",
+    "organizations": "vzetaa,vrtpro"
+  },
+  {
+    "rank": 599,
+    "name": "Arfian Adam",
+    "login": "arfianadam",
+    "contributions": 455,
+    "company": "@agilentia",
+    "organizations": "agilentia"
+  },
+  {
+    "rank": 600,
+    "name": "oon arfiandwi",
+    "login": "oonid",
+    "contributions": 21,
+    "company": "OO",
+    "organizations": "dicodingacademy"
+  },
+  {
+    "rank": 601,
+    "name": "Yonle",
+    "login": "Yonle",
+    "contributions": 902,
+    "company": "@yonlecoder",
+    "organizations": "ytmous"
+  },
+  {
+    "rank": 602,
+    "name": "Ikramullah Latif",
+    "login": "thatismunn",
+    "contributions": 297,
+    "company": "KADIN Indonesia",
+    "organizations": "bellshade"
+  },
+  {
+    "rank": 603,
+    "name": "Ali Zulfikar",
+    "login": "alizul01",
+    "contributions": 709,
+    "company": "@wrideveloper",
+    "organizations": "wrideveloper"
+  },
+  {
+    "rank": 604,
+    "name": "HunX",
+    "login": "HunxByts",
+    "contributions": 169,
+    "company": "ESEMKA 1",
+    "organizations": ""
+  },
+  {
+    "rank": 605,
+    "name": "Abdul Aziz Al Basyir",
+    "login": "albasyir",
+    "contributions": 1515,
+    "company": "ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡-ʔ",
+    "organizations": "albasyir-group,saribautnet"
+  },
+  {
+    "rank": 606,
+    "name": "Agus Setya R",
+    "login": "agussetyar",
+    "contributions": 220,
+    "company": "IndoXploit",
+    "organizations": ""
+  },
+  {
+    "rank": 607,
+    "name": "Achmad fauzi",
+    "login": "jiboncoco",
+    "contributions": 44,
+    "company": "ArtByCode",
+    "organizations": ""
+  },
+  {
+    "rank": 608,
+    "name": "Fikri Firmansyah Akbar",
+    "login": "ffrmns",
+    "contributions": 14,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 609,
+    "name": "X - MrG3P5",
+    "login": "MrG3P5",
+    "contributions": 120,
+    "company": "Nothing",
+    "organizations": ""
+  },
+  {
+    "rank": 610,
+    "name": "Feri Irawan",
+    "login": "feri-irawan",
+    "contributions": 234,
+    "company": "",
+    "organizations": "bellshade"
+  },
+  {
+    "rank": 611,
+    "name": "Ivan Iskandar",
+    "login": "ivaniskandar",
+    "contributions": 2196,
+    "company": "@prjkt-io",
+    "organizations": "SubstratumResources,VelvetProject,prjkt-io,tachiyomiorg"
+  },
+  {
+    "rank": 612,
+    "name": "Gilang Chandrasa",
+    "login": "gchandrasa",
+    "contributions": 0,
+    "company": "",
+    "organizations": "id-python"
+  },
+  {
+    "rank": 613,
+    "name": "Adam Mukharil Bachtiar",
+    "login": "adammb86",
+    "contributions": 34,
+    "company": "Universitas Komputer Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 614,
+    "name": "Syofyan Zuhad",
+    "login": "syofyanzuhad",
+    "contributions": 1775,
+    "company": "@pondok-programmer",
+    "organizations": "pondok-programmer,kuliketik-com"
+  },
+  {
+    "rank": 615,
+    "name": "Raka Adi Nugroho",
+    "login": "rakaadinugroho",
+    "contributions": 30,
+    "company": "KitaLulus",
+    "organizations": ""
+  },
+  {
+    "rank": 616,
+    "name": "Ryan Andri",
+    "login": "ryan-andri",
+    "contributions": 73,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 617,
+    "name": "puguh rismadi",
+    "login": "puguhrismadi",
+    "contributions": 96,
+    "company": "Spasi Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 618,
+    "name": "Ipang Dwi",
+    "login": "ipang-dwi",
+    "contributions": 8246,
+    "company": "@FIRSTPLATO",
+    "organizations": ""
+  },
+  {
+    "rank": 619,
+    "name": "Azhari Muhammad Marzan",
+    "login": "azharimm",
+    "contributions": 933,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 620,
+    "name": "M. Naufal Faqih",
+    "login": "KatowProject",
+    "contributions": 526,
+    "company": "@Mengkodingkan",
+    "organizations": "Mengkodingkan"
+  },
+  {
+    "rank": 621,
+    "name": "Bayu Fedra",
+    "login": "bayufedra",
+    "contributions": 121,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 622,
+    "name": "anonimzero87",
+    "login": "anonimzero87",
+    "contributions": 10,
+    "company": "ACID",
+    "organizations": ""
+  },
+  {
+    "rank": 623,
+    "name": "ミヤモト ムサシ",
+    "login": "irvn0x",
+    "contributions": 80,
+    "company": "404 Inc.",
+    "organizations": "reapskoding"
+  },
+  {
+    "rank": 624,
+    "name": "Arie Akbarull Ridho",
+    "login": "ariear",
+    "contributions": 669,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 625,
+    "name": "Tio Misbaqul Irawan",
+    "login": "indmind",
+    "contributions": 629,
+    "company": "@K-Desk",
+    "organizations": "fossasia,EpicGames,coala,wrideveloper,TeaInside,syntatic,SMKN-8-Malang-SMK-CODING,K-Desk,Addin-Mobilesoft,Innodev-K8,cp-wri"
+  },
+  {
+    "rank": 626,
+    "name": "Arjuna Sky Kok",
+    "login": "arjunaskykok",
+    "contributions": 754,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 627,
+    "name": "Muhammad Fahmi Rasyid",
+    "login": "rasyidf",
+    "contributions": 238,
+    "company": "Telkom Indonesia",
+    "organizations": "GreenDragonflyStudio"
+  },
+  {
+    "rank": 628,
+    "name": "Muhamad Rafli Al Farizqi",
+    "login": "xrafffcode",
+    "contributions": 2310,
+    "company": "@smktelkompwt",
+    "organizations": "gdsc-ittp"
+  },
+  {
+    "rank": 629,
+    "name": "[ Aditya Putra Mahesa XD. ]",
+    "login": "Xyaa-Code",
+    "contributions": 736,
+    "company": "@xcTeam",
+    "organizations": ""
+  },
+  {
+    "rank": 630,
+    "name": "Wiszky",
+    "login": "vishnoe115",
+    "contributions": 46,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 631,
+    "name": "Lazuardy Khatulistiwa",
+    "login": "lazuardyk",
+    "contributions": 2388,
+    "company": "@zonacodingtech",
+    "organizations": "zonacodingtech"
+  },
+  {
+    "rank": 632,
+    "name": "Evan Hutomo",
+    "login": "evanhutomo",
+    "contributions": 41,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 633,
+    "name": "Dhiya Reksa Kusumojati Brameswanto",
+    "login": "dhiyo7",
+    "contributions": 344,
+    "company": "@plugintegal",
+    "organizations": "plugintegal,INVOFEST,Doa-Ibu-Team"
+  },
+  {
+    "rank": 634,
+    "name": "Edi Santoso",
+    "login": "santosoide",
+    "contributions": 26,
+    "company": "@bobobox-id",
+    "organizations": ""
+  },
+  {
+    "rank": 635,
+    "name": "Rahmat Wahyu Hadi",
+    "login": "wahyuhadi",
+    "contributions": 27,
+    "company": "https://www.linkedin.com/in/rahmat-wahyu-hadi-80a868103/",
+    "organizations": ""
+  },
+  {
+    "rank": 636,
+    "name": "Auralius Manurung",
+    "login": "auralius",
+    "contributions": 25,
+    "company": "Formulatrix",
+    "organizations": ""
+  },
+  {
+    "rank": 637,
+    "name": "Frans Kbarek",
+    "login": "franskbarek",
+    "contributions": 360,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 638,
+    "name": "Michael Reynaldo Phangtriastu",
+    "login": "mrp130",
+    "contributions": 81,
+    "company": "",
+    "organizations": "bluejack13"
+  },
+  {
+    "rank": 639,
+    "name": "Wega Regianto",
+    "login": "wegare123",
+    "contributions": 39,
+    "company": "Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 640,
+    "name": "Adib Firman",
+    "login": "adibfirman",
+    "contributions": 856,
+    "company": "@tokopedia",
+    "organizations": "reactjs-id"
+  },
+  {
+    "rank": 641,
+    "name": "Paulus Donny Junianto",
+    "login": "Datazource",
+    "contributions": 333,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 642,
+    "name": "Batu Jatoh",
+    "login": "batujatoh",
+    "contributions": 19,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 643,
+    "name": "Azzam S.A",
+    "login": "azzamsa",
+    "contributions": 1928,
+    "company": "@biznetgio",
+    "organizations": ""
+  },
+  {
+    "rank": 644,
+    "name": "Rian Adam",
+    "login": "rianrajagede",
+    "contributions": 129,
+    "company": "Universitas Islam Indonesia / University of Central Florida",
+    "organizations": ""
+  },
+  {
+    "rank": 645,
+    "name": "Ihsan Fajar Ramadhan",
+    "login": "ihsanfrr",
+    "contributions": 137,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 646,
+    "name": "Andy D. Prasetyo",
+    "login": "andydptyo",
+    "contributions": 67,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 647,
+    "name": "Zanuar ER",
+    "login": "zanuarts",
+    "contributions": 2151,
+    "company": "@dicoding-dev",
+    "organizations": "dicodingacademy"
+  },
+  {
+    "rank": 648,
+    "name": "Robby Ilhamkusuma",
+    "login": "robbytrujillo",
+    "contributions": 1135,
+    "company": "https://laksanasolution.com",
+    "organizations": ""
+  },
+  {
+    "rank": 649,
+    "name": "Robby Muhammad Nst",
+    "login": "OrionStark",
+    "contributions": 130,
+    "company": "ORIONOSCODE",
+    "organizations": "collective,ORIONOSCODE,Kedan-Inc"
+  },
+  {
+    "rank": 650,
+    "name": "Ari Supriatna",
+    "login": "arisupriatna14",
+    "contributions": 19,
+    "company": "Bibit.id",
+    "organizations": "Covid19-Stats-SwiftUI"
+  },
+  {
+    "rank": 651,
+    "name": "Fuji Pebri",
+    "login": "pebri86",
+    "contributions": 5,
+    "company": "Perum Peruri",
+    "organizations": ""
+  },
+  {
+    "rank": 652,
+    "name": "Moch. Ainun Najib",
+    "login": "ec2ainun",
+    "contributions": 781,
+    "company": "",
+    "organizations": "EpicGames,ai-id,wallexninja"
+  },
+  {
+    "rank": 653,
+    "name": "0xyfann",
+    "login": "0xyfann",
+    "contributions": 1,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 654,
+    "name": "Ilham Meidi",
+    "login": "ilhammeidi",
+    "contributions": 106,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 655,
+    "name": "Diki Siswanto",
+    "login": "dikisiswanto",
+    "contributions": 523,
+    "company": "",
+    "organizations": "OpenSID"
+  },
+  {
+    "rank": 656,
+    "name": "Ferry Ariawan",
+    "login": "fherryfherry",
+    "contributions": 39,
+    "company": "",
+    "organizations": "crocodic-studio"
+  },
+  {
+    "rank": 657,
+    "name": "Candra Herdiansyah",
+    "login": "kangcand",
+    "contributions": 137,
+    "company": "@smkassalaambandung",
+    "organizations": ""
+  },
+  {
+    "rank": 658,
+    "name": "Muhammad Rusdi",
+    "login": "muhrusdi",
+    "contributions": 2375,
+    "company": "Remote",
+    "organizations": "ReactJSMks,dtcteknologi,reus-design,ryz-dev,dtc-academy,malessui,jamastek,Dikita-Integrasi-Indonesia"
+  },
+  {
+    "rank": 659,
+    "name": "Muhammad Bhaska",
+    "login": "mhmdbhsk",
+    "contributions": 864,
+    "company": "@kodingworks",
+    "organizations": "IOS-HMIF,BMO-technocorner,hmif-undip,jentayu-vtol,anforcom-2022,stormcast-app"
+  },
+  {
+    "rank": 660,
+    "name": "Rohman Habib M",
+    "login": "rohmanhm",
+    "contributions": 1580,
+    "company": "",
+    "organizations": "DefinitelyMod,favfork,typedblog"
+  },
+  {
+    "rank": 661,
+    "name": "Ferdi S Kennedy",
+    "login": "Tsuyoken",
+    "contributions": 21,
+    "company": "STT Nurul Fikri",
+    "organizations": ""
+  },
+  {
+    "rank": 662,
+    "name": "Zeropay",
+    "login": "NamasayaA905",
+    "contributions": 13,
+    "company": "ACID",
+    "organizations": ""
+  },
+  {
+    "rank": 663,
+    "name": "Bangsat Militan☆",
+    "login": "Bajingan-Z",
+    "contributions": 87,
+    "company": "Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 664,
+    "name": "Fordyta Abubakar",
+    "login": "DhytoDev",
+    "contributions": 565,
+    "company": "@helperindonesia",
+    "organizations": "izadalab"
+  },
+  {
+    "rank": 665,
+    "name": "Ambar",
+    "login": "ambarwati",
+    "contributions": 0,
+    "company": "@bukalapak",
+    "organizations": ""
+  },
+  {
+    "rank": 666,
+    "name": "Ridho Pratama",
+    "login": "99ridho",
+    "contributions": 5,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 667,
+    "name": "Redcodex",
+    "login": "Andyka16",
+    "contributions": 10,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 668,
+    "name": "Remo Harsono",
+    "login": "remoharsono",
+    "contributions": 0,
+    "company": "Oprent",
+    "organizations": "phpindonesia"
+  },
+  {
+    "rank": 669,
+    "name": "Rifqi Rosyidi",
+    "login": "rifqirosyidi",
+    "contributions": 72,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 670,
+    "name": "Arrofi Reza Satria",
+    "login": "arrofirezasatria",
+    "contributions": 1252,
+    "company": "@sunpower-dev",
+    "organizations": ""
+  },
+  {
+    "rank": 671,
+    "name": "Dicoding Reviewer",
+    "login": "dicodingreviewer",
+    "contributions": 0,
+    "company": "Dicoding Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 672,
+    "name": "Malik Akbar Hashemi Rafsanjani",
+    "login": "malikrafsan",
+    "contributions": 914,
+    "company": "",
+    "organizations": "paradewisudaitb,Malik-Akbar-s-Mini-Project,GarudaHacksMafiaTeam,findit-omae-wa-mou-shindeiru,Internnet-indonesia"
+  },
+  {
+    "rank": 673,
+    "name": "Wahyu Adi Nugroho",
+    "login": "wahyu-adi-n",
+    "contributions": 206,
+    "company": "Dian Nuswantoro University",
+    "organizations": ""
+  },
+  {
+    "rank": 674,
+    "name": "",
+    "login": "AlproITS",
+    "contributions": 0,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": ""
+  },
+  {
+    "rank": 675,
+    "name": "Reach Level",
+    "login": "reachlevel19",
+    "contributions": 19,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 676,
+    "name": "Dicka Ismaji",
+    "login": "dicka88",
+    "contributions": 3058,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 677,
+    "name": "Rolly Maulana Awangga",
+    "login": "awangga",
+    "contributions": 2636,
+    "company": "Saung IT",
+    "organizations": "peuyeum"
+  },
+  {
+    "rank": 678,
+    "name": "Paramitha",
+    "login": "paramithatm",
+    "contributions": 535,
+    "company": "@mindvalley",
+    "organizations": ""
+  },
+  {
+    "rank": 679,
+    "name": "ninja solana",
+    "login": "ninjasolana12",
+    "contributions": 13,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 680,
+    "name": "Iqbal Farabi",
+    "login": "qbl",
+    "contributions": 37,
+    "company": "",
+    "organizations": "starqle,kubernetes"
+  },
+  {
+    "rank": 681,
+    "name": "M Adib zamzam",
+    "login": "adibenc",
+    "contributions": 306,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 682,
+    "name": "Daffa Haryadi",
+    "login": "takadev15",
+    "contributions": 101,
+    "company": "",
+    "organizations": "PintarTech"
+  },
+  {
+    "rank": 683,
+    "name": "Gaung Ramadhan",
+    "login": "MrMissx",
+    "contributions": 1503,
+    "company": "@UserbotIndo, @mrmiss-lab",
+    "organizations": "userbotindo,mrmiss-lab,binusgdc"
+  },
+  {
+    "rank": 684,
+    "name": "Bherly Novrandy",
+    "login": "pushm0v",
+    "contributions": 550,
+    "company": "@kitabisa",
+    "organizations": "BaritoLog"
+  },
+  {
+    "rank": 685,
+    "name": "Ian Mustafa",
+    "login": "ianmustafa",
+    "contributions": 12,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 686,
+    "name": "Risal Walangadi",
+    "login": "izhal27",
+    "contributions": 67,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 687,
+    "name": "Dony Wahyu Isp",
+    "login": "dnaextrim",
+    "contributions": 4,
+    "company": "",
+    "organizations": "kecik-framework"
+  },
+  {
+    "rank": 688,
+    "name": "Dhimas Bagus Prayoga",
+    "login": "Kry9toN",
+    "contributions": 624,
+    "company": "@Komodo-OS-Rom @Kry9toN-Project",
+    "organizations": "Kry9toN-Project,KomodOS-Rom,Komodo-OS-Devices,Komodo-OS,Nusantara-ROM,NusantaraROM-Devices,Jayus-Kranul,BotWAIndo"
+  },
+  {
+    "rank": 689,
+    "name": "Panggi Libersa Jasri Akadol",
+    "login": "panggi",
+    "contributions": 0,
+    "company": "@sqesmma",
+    "organizations": ""
+  },
+  {
+    "rank": 690,
+    "name": "Sreekanth",
+    "login": "sreeix",
+    "contributions": 0,
+    "company": "Veritrans",
+    "organizations": ""
+  },
+  {
+    "rank": 691,
+    "name": "Farich AS",
+    "login": "akufarich75",
+    "contributions": 0,
+    "company": "@amartha",
+    "organizations": ""
+  },
+  {
+    "rank": 692,
+    "name": "Naufal Ardhani",
+    "login": "naufalardhani",
+    "contributions": 62,
+    "company": "IPB University",
+    "organizations": "devoverid,cproduction-id"
+  },
+  {
+    "rank": 693,
+    "name": "Gidhan Bagus Algary",
+    "login": "verssache",
+    "contributions": 721,
+    "company": "Student",
+    "organizations": ""
+  },
+  {
+    "rank": 694,
+    "name": "DeVoresyah ArEst",
+    "login": "DeVoresyah",
+    "contributions": 91,
+    "company": "UnboxLabs",
+    "organizations": "OsmiCSX"
+  },
+  {
+    "rank": 695,
+    "name": "Ahmad Yaqdhan",
+    "login": "Mednoob",
+    "contributions": 159,
+    "company": "@Clytage",
+    "organizations": "EpicGames,bellshade,EthereaDevelopment,Necron-Network,Mednoob-Private-Repos,clytage"
+  },
+  {
+    "rank": 696,
+    "name": "Wika Silo",
+    "login": "WikaSilo",
+    "contributions": 11,
+    "company": "Hacktiv8",
+    "organizations": ""
+  },
+  {
+    "rank": 697,
+    "name": "Tanduri a.k.a HelloTan",
+    "login": "HelloTan",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 698,
+    "name": "AlbirrKarim",
+    "login": "albirrkarim",
+    "contributions": 1556,
+    "company": "akvirtual.id",
+    "organizations": ""
+  },
+  {
+    "rank": 699,
+    "name": "Naufal Reky Ardhana",
+    "login": "ardzz",
+    "contributions": 246,
+    "company": "Politeknik Negeri Semarang",
+    "organizations": "BugHunterID,Cyb0x1CTF"
+  },
+  {
+    "rank": 700,
+    "name": "Akhmat Safrudin",
+    "login": "somat",
+    "contributions": 10,
+    "company": "Artikulpi",
+    "organizations": "indonesia,BlankOn"
+  },
+  {
+    "rank": 701,
+    "name": "M. Ridwan Zalbina",
+    "login": "ridwanzal",
+    "contributions": 3129,
+    "company": "Fairtech Technology, Ltd | NicheStack | WpStack Contributor",
+    "organizations": ""
+  },
+  {
+    "rank": 702,
+    "name": "KAK",
+    "login": "kuntoaji",
+    "contributions": 361,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 703,
+    "name": "Afifah Rahma Kustanto",
+    "login": "afifahrahmak",
+    "contributions": 512,
+    "company": "@hacktiv8",
+    "organizations": "king-fox-2019,bukanInstagram,Kaboot,letsCooked,gameGP3,Explanade,Phase-2-Draft,malaka-incorpora-teknologi"
+  },
+  {
+    "rank": 704,
+    "name": "R. B. B. Putra Angkasa",
+    "login": "stackoverprof",
+    "contributions": 1290,
+    "company": "@Viska-IO @Komatik-SRD",
+    "organizations": "OmahTI-UGM,VISKA-IO,Komatik-SRD"
+  },
+  {
+    "rank": 705,
+    "name": "Jan Alonzo",
+    "login": "jmalonzo",
+    "contributions": 440,
+    "company": "@taguchimail",
+    "organizations": ""
+  },
+  {
+    "rank": 706,
+    "name": "Mochamad Nizwar Syafuan",
+    "login": "nizwar",
+    "contributions": 699,
+    "company": "@laskarmedia",
+    "organizations": ""
+  },
+  {
+    "rank": 707,
+    "name": "Rizki Romadhoni",
+    "login": "rrmdn",
+    "contributions": 601,
+    "company": "Temporarily Funemployed",
+    "organizations": ""
+  },
+  {
+    "rank": 708,
+    "name": "Jonathan Filbert",
+    "login": "jonathanfilbert",
+    "contributions": 271,
+    "company": "@Tokopedia",
+    "organizations": "RistekCSUI,tokopedia,anakpacil,Quanta2018,tuyulmesir,code-for-human-engineering,lytebox,ui-dsc,coronahub,Propensi-C05,ristekoss,DevCamp-12,sertibit"
+  },
+  {
+    "rank": 709,
+    "name": "Gobstopper",
+    "login": "hanandito",
+    "contributions": 929,
+    "company": "@OkularID",
+    "organizations": "OkularID"
+  },
+  {
+    "rank": 710,
+    "name": "Fakhry Ikhsan Firdaus",
+    "login": "iffakhry",
+    "contributions": 416,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 711,
+    "name": "M. Nafian Wildana",
+    "login": "mnafian",
+    "contributions": 177,
+    "company": "",
+    "organizations": "KelasMobileMalang,BesutKode,carvelabs"
+  },
+  {
+    "rank": 712,
+    "name": "Malik baskara",
+    "login": "BaskaraIndra",
+    "contributions": 40,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 713,
+    "name": "Mario Ray Mahardhika",
+    "login": "leledumbo",
+    "contributions": 27,
+    "company": "@sirclo-solution",
+    "organizations": ""
+  },
+  {
+    "rank": 714,
+    "name": "Fathan",
+    "login": "fathanick",
+    "contributions": 150,
+    "company": "Universitas Islam Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 715,
+    "name": "Meyta Taliti",
+    "login": "mzennis",
+    "contributions": 61,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 716,
+    "name": "Muammar Zikri Aksana",
+    "login": "mzaksana",
+    "contributions": 3193,
+    "company": "Twibbonize",
+    "organizations": "KEEPWORK5EDY,Twibbonize"
+  },
+  {
+    "rank": 717,
+    "name": "Azhari Harahap",
+    "login": "back2arie",
+    "contributions": 655,
+    "company": "CapungRiders",
+    "organizations": ""
+  },
+  {
+    "rank": 718,
+    "name": "Novian Andika",
+    "login": "fleetimee",
+    "contributions": 2975,
+    "company": "@harvest-valley",
+    "organizations": "fugindo,Analisis-Kredit-Mikro"
+  },
+  {
+    "rank": 719,
+    "name": "Rachma Adzima Maulida",
+    "login": "rachmadzii",
+    "contributions": 1069,
+    "company": "UPN Veteran Jakarta",
+    "organizations": ""
+  },
+  {
+    "rank": 720,
+    "name": "Vincent",
+    "login": "vincentzhangz",
+    "contributions": 291,
+    "company": "Blibli.com",
+    "organizations": ""
+  },
+  {
+    "rank": 721,
+    "name": "Sudhanshu Raheja",
+    "login": "sudhanshuraheja",
+    "contributions": 54,
+    "company": "@gopay",
+    "organizations": "leftshifters"
+  },
+  {
+    "rank": 722,
+    "name": "Zekais",
+    "login": "fawwaz37",
+    "contributions": 334,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 723,
+    "name": "Wahyu Permadi",
+    "login": "wahyupermadie",
+    "contributions": 6,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 724,
+    "name": "Fadil Sutomo",
+    "login": "fadils",
+    "contributions": 0,
+    "company": "",
+    "organizations": "pockethub"
+  },
+  {
+    "rank": 725,
+    "name": "Muhammad Amirul Ihsan",
+    "login": "mai92",
+    "contributions": 59,
+    "company": "@kawankoding",
+    "organizations": "kawankoding"
+  },
+  {
+    "rank": 726,
+    "name": "Dan",
+    "login": "danpros",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 727,
+    "name": "Des Dulianto",
+    "login": "desdulianto",
+    "contributions": 417,
+    "company": "",
+    "organizations": "JUG-Indonesia,OmGigitOm,KongkowITMedan"
+  },
+  {
+    "rank": 728,
+    "name": "Sigit Dewanto",
+    "login": "seagatesoft",
+    "contributions": 9,
+    "company": "",
+    "organizations": "scrapinghub"
+  },
+  {
+    "rank": 729,
+    "name": "M. Fadli Zein",
+    "login": "gzeinnumer",
+    "contributions": 1824,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 730,
+    "name": "Febry Ardiansyah",
+    "login": "febryardiansyah",
+    "contributions": 78,
+    "company": "@Kaede-No-Ki",
+    "organizations": "Jagongan-Software-Engineering,Kaede-No-Ki,KampusJualan"
+  },
+  {
+    "rank": 731,
+    "name": "Aris Ripandi",
+    "login": "riipandi",
+    "contributions": 1574,
+    "company": "@zero-one-group",
+    "organizations": "zero-one-group,otentikauth"
+  },
+  {
+    "rank": 732,
+    "name": "Muhammad Firman Kahfi",
+    "login": "FirmanMFK",
+    "contributions": 1,
+    "company": "",
+    "organizations": "Commu-Bandung,UwaCoding,DSCPoltekpos"
+  },
+  {
+    "rank": 733,
+    "name": "",
+    "login": "saddamarbaa",
+    "contributions": 1174,
+    "company": "https://www.saddamarbaa.com",
+    "organizations": ""
+  },
+  {
+    "rank": 734,
+    "name": "Irvan Malik",
+    "login": "irvanmalik48",
+    "contributions": 1726,
+    "company": "@GNUWeeb @aksaracms",
+    "organizations": "DSC-UNSRI,aksaracms"
+  },
+  {
+    "rank": 735,
+    "name": "Ravimo",
+    "login": "RavioliMavioli",
+    "contributions": 40,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 736,
+    "name": "Bayu Muhammad Iqbal",
+    "login": "bayuiqballl",
+    "contributions": 330,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 737,
+    "name": "EKA DANU ARTA",
+    "login": "ekadanuarta",
+    "contributions": 12,
+    "company": "I need money",
+    "organizations": ""
+  },
+  {
+    "rank": 738,
+    "name": "Josep Marcello",
+    "login": "jspmarc",
+    "contributions": 1555,
+    "company": "Bandung Institute of Technology | Tiket",
+    "organizations": "hmif-itb,ctf-itb,paradewisudaitb,KAT-ITB-2021"
+  },
+  {
+    "rank": 739,
+    "name": "Tian Permana",
+    "login": "tianp",
+    "contributions": 0,
+    "company": "",
+    "organizations": "idjs,iojs-id"
+  },
+  {
+    "rank": 740,
+    "name": "Septian Dwi Cahyo",
+    "login": "septiandwica",
+    "contributions": 165,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 741,
+    "name": "aceman867",
+    "login": "aceman867",
+    "contributions": 4,
+    "company": "Boomers.inc",
+    "organizations": ""
+  },
+  {
+    "rank": 742,
+    "name": "Altela Eleviansyah Pramardhika",
+    "login": "altela",
+    "contributions": 1131,
+    "company": "",
+    "organizations": "CentralJA,projectflakes,pandjiputradev"
+  },
+  {
+    "rank": 743,
+    "name": "Adithya Firmansyah Putra",
+    "login": "Adithya-13",
+    "contributions": 506,
+    "company": "@zero-one-group",
+    "organizations": ""
+  },
+  {
+    "rank": 744,
+    "name": "Sopan Setiawan",
+    "login": "setiawansopan",
+    "contributions": 13,
+    "company": "SMA Negeri 1 Yogyakarta",
+    "organizations": ""
+  },
+  {
+    "rank": 745,
+    "name": "Ithoq Projosasmito",
+    "login": "ithoq",
+    "contributions": 7,
+    "company": "KENDIL.COM",
+    "organizations": ""
+  },
+  {
+    "rank": 746,
+    "name": "dhupee",
+    "login": "dhupee",
+    "contributions": 319,
+    "company": "Universitas Gadjah Mada",
+    "organizations": ""
+  },
+  {
+    "rank": 747,
+    "name": "Fransiskus Febryan Suryawan",
+    "login": "suggoitanoshi",
+    "contributions": 274,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 748,
+    "name": "Dhi Aurrahman",
+    "login": "diorahman",
+    "contributions": 0,
+    "company": "Cokelatia",
+    "organizations": "BlankOn"
+  },
+  {
+    "rank": 749,
+    "name": "Maikel Chandika",
+    "login": "mkdika",
+    "contributions": 9,
+    "company": "Tiket.com",
+    "organizations": "KotlinID,KongkowITMedan"
+  },
+  {
+    "rank": 750,
+    "name": "Fikri Rudiansyah",
+    "login": "superXdev",
+    "contributions": 12452,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 751,
+    "name": "Ted Kesgar",
+    "login": "tkesgar",
+    "contributions": 232,
+    "company": "@bukalapak @nusaleague @charaverse @kingsbrawl",
+    "organizations": ""
+  },
+  {
+    "rank": 752,
+    "name": "Mahmudin muttaqin",
+    "login": "mahmudinm",
+    "contributions": 749,
+    "company": "mahmudinmuttaqin@gmail.com",
+    "organizations": ""
+  },
+  {
+    "rank": 753,
+    "name": "Sofyan Sitorus",
+    "login": "sofyansitorus",
+    "contributions": 75,
+    "company": "@elegantthemes",
+    "organizations": "elegantthemes,wp-id"
+  },
+  {
+    "rank": 754,
+    "name": "Pizaini",
+    "login": "pizaini",
+    "contributions": 123,
+    "company": "RiauDevOps",
+    "organizations": "riaudevops"
+  },
+  {
+    "rank": 755,
+    "name": "",
+    "login": "armandoalshahab",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 756,
+    "name": "JoeGun",
+    "login": "JonathanGun",
+    "contributions": 10,
+    "company": "ITB",
+    "organizations": ""
+  },
+  {
+    "rank": 757,
+    "name": "Robby Pambudi",
+    "login": "robbypambudi",
+    "contributions": 2040,
+    "company": "Sepuluh Nopember Institute of Technology",
+    "organizations": ""
+  },
+  {
+    "rank": 758,
+    "name": "Antoni Putra",
+    "login": "antoniputra",
+    "contributions": 2471,
+    "company": "",
+    "organizations": "surabayadev"
+  },
+  {
+    "rank": 759,
+    "name": "",
+    "login": "donbasta",
+    "contributions": 335,
+    "company": "",
+    "organizations": "cp-itb,hmif-itb,Arkavidia-CP,donmasha"
+  },
+  {
+    "rank": 760,
+    "name": "Eka kartika",
+    "login": "eka12",
+    "contributions": 4,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 761,
+    "name": "anggastudio",
+    "login": "anggastudio",
+    "contributions": 32,
+    "company": "anggastudio",
+    "organizations": ""
+  },
+  {
+    "rank": 762,
+    "name": "Arryangga Aliev Pratamaputra",
+    "login": "arryanggaputra",
+    "contributions": 257,
+    "company": "@surabayadev",
+    "organizations": "LaravelSurabaya,surabayadev"
+  },
+  {
+    "rank": 763,
+    "name": "Yohan Ardiansyah",
+    "login": "kuuhaku86",
+    "contributions": 130,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 764,
+    "name": "Iwan Budi Kusnanto",
+    "login": "iwanbk",
+    "contributions": 268,
+    "company": "@tokopedia",
+    "organizations": "golang-id,tokopedia,g8os"
+  },
+  {
+    "rank": 765,
+    "name": "Ajiz Ariyanto",
+    "login": "Ajiz12",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 766,
+    "name": "Zaki Nadhif",
+    "login": "zakinadhif",
+    "contributions": 323,
+    "company": "SMK Telkom Malang",
+    "organizations": "raviolini"
+  },
+  {
+    "rank": 767,
+    "name": "MELANIN-XD",
+    "login": "M3L4NIN-H4CK3R",
+    "contributions": 50,
+    "company": "H4CK-M4N",
+    "organizations": ""
+  },
+  {
+    "rank": 768,
+    "name": "Bobby",
+    "login": "BobbyWibowo",
+    "contributions": 145,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 769,
+    "name": "Hario Budiharjo.",
+    "login": "HarioBudiharjo",
+    "contributions": 41,
+    "company": "@learnmakeapp",
+    "organizations": "cQuran,RaionCommunityFILKOMUB,BugHunterID,mandiriwhatthehackorg,learnmakeapp,Calonin,Funios-community"
+  },
+  {
+    "rank": 770,
+    "name": "Hendra Wijaya Djiono",
+    "login": "hendrawd",
+    "contributions": 6,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 771,
+    "name": "Satria Ady Pradana",
+    "login": "xathrya",
+    "contributions": 10,
+    "company": "@ArchonLabs",
+    "organizations": ""
+  },
+  {
+    "rank": 772,
+    "name": "Reza Adi Pangestu",
+    "login": "rezaadi0105",
+    "contributions": 129,
+    "company": "",
+    "organizations": "PitchBlackRecoveryProject,ancient-rom,DerpLab,Ancient-Lab"
+  },
+  {
+    "rank": 773,
+    "name": "Java Web Media",
+    "login": "javawebmedia",
+    "contributions": 28,
+    "company": "Java Web Media",
+    "organizations": ""
+  },
+  {
+    "rank": 774,
+    "name": "Aslam",
+    "login": "Aslam97",
+    "contributions": 1026,
+    "company": "Full-Stack Web Developer",
+    "organizations": ""
+  },
+  {
+    "rank": 775,
+    "name": "Welly Tambunan",
+    "login": "welly87",
+    "contributions": 748,
+    "company": "weltam",
+    "organizations": ""
+  },
+  {
+    "rank": 776,
+    "name": "Oryto Mikli",
+    "login": "Rianto21",
+    "contributions": 326,
+    "company": "Universitas Jember, Jawa Timur, Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 777,
+    "name": "Owen Christian Wijaya",
+    "login": "owencwijaya",
+    "contributions": 745,
+    "company": "Institut Teknologi Bandung",
+    "organizations": ""
+  },
+  {
+    "rank": 778,
+    "name": "SB. Widyo Bumi",
+    "login": "vanbumi",
+    "contributions": 5,
+    "company": "MedioCademy",
+    "organizations": ""
+  },
+  {
+    "rank": 779,
+    "name": "Azhary Arliansyah",
+    "login": "azhry",
+    "contributions": 250,
+    "company": "@LyridInc @palembang-digital",
+    "organizations": ""
+  },
+  {
+    "rank": 780,
+    "name": "Wisnu Pramoedya",
+    "login": "wisnupramoedya",
+    "contributions": 192,
+    "company": "",
+    "organizations": "Countract-Blockchain"
+  },
+  {
+    "rank": 781,
+    "name": "Noprianto",
+    "login": "0d3ng",
+    "contributions": 118,
+    "company": "Politeknik Negeri Malang",
+    "organizations": ""
+  },
+  {
+    "rank": 782,
+    "name": "Eka Puji Widiyanto",
+    "login": "ekapujiw2002",
+    "contributions": 107,
+    "company": "MDP",
+    "organizations": ""
+  },
+  {
+    "rank": 783,
+    "name": "Samuel Christaura Geraldy",
+    "login": "Xractz",
+    "contributions": 0,
+    "company": "IndoSec",
+    "organizations": ""
+  },
+  {
+    "rank": 784,
+    "name": "Mahrus Khomaini",
+    "login": "mahruskh",
+    "contributions": 2943,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 785,
+    "name": "zien",
+    "login": "sheenazien8",
+    "contributions": 62,
+    "company": "Stark Industries",
+    "organizations": "lakasir"
+  },
+  {
+    "rank": 786,
+    "name": "Trej Gun",
+    "login": "TrejGun",
+    "contributions": 1768,
+    "company": "Gemunion Studio",
+    "organizations": ""
+  },
+  {
+    "rank": 787,
+    "name": "Sasongko Jati",
+    "login": "byjati",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 788,
+    "name": "za",
+    "login": "za",
+    "contributions": 115,
+    "company": "",
+    "organizations": "id-python"
+  },
+  {
+    "rank": 789,
+    "name": "Mustafa Ramadhan",
+    "login": "mustafaramadhan",
+    "contributions": 0,
+    "company": "BIGRAF(R) Inc.",
+    "organizations": ""
+  },
+  {
+    "rank": 790,
+    "name": "Awal Ariansyah",
+    "login": "snowfluke",
+    "contributions": 471,
+    "company": "@snowexe @echlus",
+    "organizations": "snowexe"
+  },
+  {
+    "rank": 791,
+    "name": "Ariya Saputra",
+    "login": "ariyazz",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 792,
+    "name": "Septyaman Vom",
+    "login": "septyaman",
+    "contributions": 0,
+    "company": "@Harazaki",
+    "organizations": "pixelimity,GitIndonesia"
+  },
+  {
+    "rank": 793,
+    "name": "Ismail Sunni",
+    "login": "ismailsunni",
+    "contributions": 1687,
+    "company": "@camptocamp",
+    "organizations": "camptocamp,AIFDR,inasafe,erasmus-mundus-geotech-master,qgis-id"
+  },
+  {
+    "rank": 794,
+    "name": "Kalwabed Rizki",
+    "login": "kalwabed",
+    "contributions": 508,
+    "company": "",
+    "organizations": "esemkasa,komunitas-programmer-banyuwangi,hamasah-lab"
+  },
+  {
+    "rank": 795,
+    "name": "Taufik Pragusga",
+    "login": "pragusga25",
+    "contributions": 743,
+    "company": "University of Indonesia",
+    "organizations": "COMPFEST,KitaDevelop,OH-Fasilkom-UI,okkui,BETIS-Fasilkom,harmonica-pacil"
+  },
+  {
+    "rank": 796,
+    "name": "qeuqeuneo",
+    "login": "Anitasilvi",
+    "contributions": 89,
+    "company": "Politeknik Elektronika Negeri Surabaya",
+    "organizations": ""
+  },
+  {
+    "rank": 797,
+    "name": "Radhin Al haady",
+    "login": "radhin123",
+    "contributions": 69,
+    "company": "@Persatuan-pemula-Termux",
+    "organizations": ""
+  },
+  {
+    "rank": 798,
+    "name": "Mahendrata Harpi",
+    "login": "piharpi",
+    "contributions": 1468,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 799,
+    "name": "Saefulloh Maslul",
+    "login": "saefullohmaslul",
+    "contributions": 312,
+    "company": "Ruparupa (www.ruparupa.com)",
+    "organizations": "dhakon,hobikoding,SekolahFullstackCilsy,Binar-Wave-14"
+  },
+  {
+    "rank": 800,
+    "name": "Rayhan Rafiud Darojat",
+    "login": "rafiudd",
+    "contributions": 97,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 801,
+    "name": "Ahmad Zaky",
+    "login": "azaky",
+    "contributions": 1429,
+    "company": "",
+    "organizations": "cp-itb"
+  },
+  {
+    "rank": 802,
+    "name": "Heical Chandra",
+    "login": "Dynavx",
+    "contributions": 442,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 803,
+    "name": "R4D3N G0Z4LL",
+    "login": "ICT154",
+    "contributions": 232,
+    "company": "Lintas Data Piranti",
+    "organizations": ""
+  },
+  {
+    "rank": 804,
+    "name": "Ibe Dwi",
+    "login": "ibedwi",
+    "contributions": 978,
+    "company": "@typedreamhq",
+    "organizations": "candradimuka-dev"
+  },
+  {
+    "rank": 805,
+    "name": "Dandy Naufaldi",
+    "login": "dandynaufaldi",
+    "contributions": 35,
+    "company": "",
+    "organizations": "kcv-if"
+  },
+  {
+    "rank": 806,
+    "name": "Bima Putra Lamanda",
+    "login": "bimap98",
+    "contributions": 98,
+    "company": "",
+    "organizations": "data-engineers-id"
+  },
+  {
+    "rank": 807,
+    "name": "Dika Budiaji",
+    "login": "kodeartisan",
+    "contributions": 10,
+    "company": "@idkotlinx",
+    "organizations": ""
+  },
+  {
+    "rank": 808,
+    "name": "purwandi",
+    "login": "purwandi",
+    "contributions": 67,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 809,
+    "name": "",
+    "login": "huang97th",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 810,
+    "name": "AibnuHibban",
+    "login": "AIbnuHIbban",
+    "contributions": 213,
+    "company": "LeeNuksID",
+    "organizations": "xentaos"
+  },
+  {
+    "rank": 811,
+    "name": "Aroyan",
+    "login": "aroyan",
+    "contributions": 769,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 812,
+    "name": "circleous",
+    "login": "circleous",
+    "contributions": 9,
+    "company": "",
+    "organizations": "Super-Guesser"
+  },
+  {
+    "rank": 813,
+    "name": "Faldi Ramadhan",
+    "login": "fadilkun45",
+    "contributions": 160,
+    "company": "PT Maju Aman Sejahtera (MAS)",
+    "organizations": "tomcat-squad,flexcms-Project,lapan-tech"
+  },
+  {
+    "rank": 814,
+    "name": "Bagja 9102 Kurniawan",
+    "login": "Bagja9102Kurniawan",
+    "contributions": 0,
+    "company": "@ailabtelkom",
+    "organizations": "ailabtelkom,Techbros-Internship-2021,HoteList,CC22-HO01-TravelokaSigapore-HotelRanks"
+  },
+  {
+    "rank": 815,
+    "name": "Akmal",
+    "login": "Wikidepia",
+    "contributions": 484,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 816,
+    "name": "Afiq Quraisy",
+    "login": "UrNightmaree",
+    "contributions": 929,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 817,
+    "name": "Djaka Pradana Jaya Priambudi",
+    "login": "DjakaTechnology",
+    "contributions": 1508,
+    "company": "Traveloka",
+    "organizations": ""
+  },
+  {
+    "rank": 818,
+    "name": "ꦫꦶꦤꦺꦴ",
+    "login": "spiritbroski",
+    "contributions": 271,
+    "company": "",
+    "organizations": "gakpenting"
+  },
+  {
+    "rank": 819,
+    "name": "Yoga S Devanada",
+    "login": "devanada",
+    "contributions": 563,
+    "company": "@alterraacademy",
+    "organizations": ""
+  },
+  {
+    "rank": 820,
+    "name": "Didik Wicaksono",
+    "login": "firewalker06",
+    "contributions": 899,
+    "company": "@cookpad",
+    "organizations": "cookpad,id-ruby,ctoid,perkodi-org"
+  },
+  {
+    "rank": 821,
+    "name": "Ampersanda",
+    "login": "ampersanda",
+    "contributions": 99,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 822,
+    "name": "Dimas Restu H",
+    "login": "dimaskiddo",
+    "contributions": 180,
+    "company": "PT Telekomunikasi Indonesia",
+    "organizations": "TelkomIndonesia,develoka,telkomdev"
+  },
+  {
+    "rank": 823,
+    "name": "Tutorial Web Design",
+    "login": "tutweb",
+    "contributions": 0,
+    "company": "Tutweb",
+    "organizations": ""
+  },
+  {
+    "rank": 824,
+    "name": "Aldin Setiawan",
+    "login": "JustHumanz",
+    "contributions": 192,
+    "company": "",
+    "organizations": "scen-git"
+  },
+  {
+    "rank": 825,
+    "name": "H3rgun",
+    "login": "H3rgun",
+    "contributions": 10,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 826,
+    "name": "Ikal",
+    "login": "rakhid16",
+    "contributions": 268,
+    "company": "Bangunindo Teknusa Jaya",
+    "organizations": "pps-ti"
+  },
+  {
+    "rank": 827,
+    "name": "Alvin Rochafi",
+    "login": "rochafialvin",
+    "contributions": 372,
+    "company": "Purwadhika",
+    "organizations": ""
+  },
+  {
+    "rank": 828,
+    "name": "Muhammad Haekal",
+    "login": "muhammadhaekal",
+    "contributions": 114,
+    "company": "",
+    "organizations": "impactbyte-bahamut,impactbyte-charizard,impactbyte-network,serabi-solo,movie-catalog,modusintech,co-space,impactbyte-ender,Kumpulin,BarberFinder,ImpactAlumni,impactbyte-gon,curhatin,gig-indonesia,rentnesia,impactbyte-dragons"
+  },
+  {
+    "rank": 829,
+    "name": "Zul Hilmi",
+    "login": "HilmiZul",
+    "contributions": 628,
+    "company": "@binaroom",
+    "organizations": "writerlab,netheroid"
+  },
+  {
+    "rank": 830,
+    "name": "Ervalsa Dwi Nanda",
+    "login": "ervalsa",
+    "contributions": 431,
+    "company": "Institut Teknologi Kalimantan",
+    "organizations": "Mocca-Money-Management-App"
+  },
+  {
+    "rank": 831,
+    "name": "Rafly",
+    "login": "Raflyar",
+    "contributions": 1,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 832,
+    "name": "Daniel",
+    "login": "nieltg",
+    "contributions": 0,
+    "company": "@gojek",
+    "organizations": "magento,msdahmif"
+  },
+  {
+    "rank": 833,
+    "name": "Steven Hansel",
+    "login": "stevenhansel",
+    "contributions": 778,
+    "company": "",
+    "organizations": "MLH-Fellowship"
+  },
+  {
+    "rank": 834,
+    "name": "Muhammad Yafi Alhakim",
+    "login": "yaffalhakim1",
+    "contributions": 435,
+    "company": "Universitas Diponegoro",
+    "organizations": ""
+  },
+  {
+    "rank": 835,
+    "name": "R-Ladies Jakarta",
+    "login": "RLadiesJakarta",
+    "contributions": 7,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 836,
+    "name": "Ahmad Andi Rahmadi",
+    "login": "Assesddef",
+    "contributions": 4,
+    "company": "Freelancer & student",
+    "organizations": ""
+  },
+  {
+    "rank": 837,
+    "name": "Marcello Faria",
+    "login": "marcellof23",
+    "contributions": 353,
+    "company": "",
+    "organizations": "hmif-itb"
+  },
+  {
+    "rank": 838,
+    "name": "Akhmad arip",
+    "login": "arip86",
+    "contributions": 93,
+    "company": "NF Computer",
+    "organizations": ""
+  },
+  {
+    "rank": 839,
+    "name": "Muhammad Aditya Hilmy",
+    "login": "didithilmy",
+    "contributions": 2606,
+    "company": "",
+    "organizations": "rucio,hmif-itb,allure-ai"
+  },
+  {
+    "rank": 840,
+    "name": "Noval",
+    "login": "novalramdhani",
+    "contributions": 28,
+    "company": "@devixid",
+    "organizations": "devixid"
+  },
+  {
+    "rank": 841,
+    "name": "",
+    "login": "napjon",
+    "contributions": 558,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 842,
+    "name": "Eko Simanjuntak",
+    "login": "ecojuntak",
+    "contributions": 309,
+    "company": "",
+    "organizations": "sumuttekno,easyread,gopaytech"
+  },
+  {
+    "rank": 843,
+    "name": "Joko Eliyanto",
+    "login": "jokoeliyanto",
+    "contributions": 109,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 844,
+    "name": "Yepz",
+    "login": "Myyepz",
+    "contributions": 1,
+    "company": "Forte Corporation",
+    "organizations": "ForteBots"
+  },
+  {
+    "rank": 845,
+    "name": "Jemal Rashidi",
+    "login": "jmsrsd",
+    "contributions": 358,
+    "company": "@RaionCommunityFILKOMUB",
+    "organizations": ""
+  },
+  {
+    "rank": 846,
+    "name": "iqbalbasyar",
+    "login": "iqbalbasyar",
+    "contributions": 4,
+    "company": "Algoritma",
+    "organizations": ""
+  },
+  {
+    "rank": 847,
+    "name": "",
+    "login": "yusufrizalh",
+    "contributions": 174,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 848,
+    "name": "Sandi Wijayani",
+    "login": "sandiwijayani1",
+    "contributions": 0,
+    "company": "Sendiri",
+    "organizations": ""
+  },
+  {
+    "rank": 849,
+    "name": "Nick den Engelsman",
+    "login": "nicka",
+    "contributions": 407,
+    "company": "Codedrops",
+    "organizations": "bandlab,serverless"
+  },
+  {
+    "rank": 850,
+    "name": "Vicky Dasta",
+    "login": "vck",
+    "contributions": 1072,
+    "company": "@strolleraura",
+    "organizations": ""
+  },
+  {
+    "rank": 851,
+    "name": "lionatic",
+    "login": "lunadiotic",
+    "contributions": 432,
+    "company": "@idstck",
+    "organizations": ""
+  },
+  {
+    "rank": 852,
+    "name": "Aghits Nidallah",
+    "login": "NikarashiHatsu",
+    "contributions": 2743,
+    "company": "PT Bengkel Web Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 853,
+    "name": "aseng",
+    "login": "as3ng",
+    "contributions": 136,
+    "company": "ITSEC Asia",
+    "organizations": ""
+  },
+  {
+    "rank": 854,
+    "name": "Handiko Gesang",
+    "login": "handiko",
+    "contributions": 344,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 855,
+    "name": "Dipadana Putu",
+    "login": "dipadana",
+    "contributions": 633,
+    "company": "alihgae.com => lokerian.com",
+    "organizations": "primakara-developers,himalaya-digital,bali-dev-camp,amusement-lab"
+  },
+  {
+    "rank": 856,
+    "name": "Muhammad Fadhil Adha",
+    "login": "defadels",
+    "contributions": 72,
+    "company": "PT. Bayhani Sinergi Nusantara | Refillmadu",
+    "organizations": ""
+  },
+  {
+    "rank": 857,
+    "name": "Dzulkifli",
+    "login": "Dzulkiflibot",
+    "contributions": 32,
+    "company": "DKBOT-LINE",
+    "organizations": ""
+  },
+  {
+    "rank": 858,
+    "name": "Irvan Ahmad P.",
+    "login": "irvanahmadp",
+    "contributions": 943,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 859,
+    "name": "Ibrahimsyah Zairussalam",
+    "login": "Ibrahimsyah",
+    "contributions": 97,
+    "company": "@bccfilkom",
+    "organizations": "bccfilkom"
+  },
+  {
+    "rank": 860,
+    "name": "Muhammad Naufal",
+    "login": "pedox",
+    "contributions": 40,
+    "company": "PT Aidi Digital Global",
+    "organizations": "indonesia"
+  },
+  {
+    "rank": 861,
+    "name": "Elvina Firmansyah",
+    "login": "elvinafirmansyah",
+    "contributions": 13,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 862,
+    "name": "candradwicahyo",
+    "login": "candradwicahyo",
+    "contributions": 247,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 863,
+    "name": "Akmal Fairuz",
+    "login": "AkmalFairuz",
+    "contributions": 915,
+    "company": "@VenityNetwork",
+    "organizations": "VenityNetwork"
+  },
+  {
+    "rank": 864,
+    "name": "M_Raihan_Ramzy",
+    "login": "kingramzy",
+    "contributions": 12,
+    "company": "National Institute of Technology",
+    "organizations": "bellshade"
+  },
+  {
+    "rank": 865,
+    "name": "M Naufal Badruttamam",
+    "login": "Caknoooo",
+    "contributions": 2045,
+    "company": "Sepuluh Nopember Institute of Technology",
+    "organizations": "Lab-RPL-ITS,itsmunclub,filinmovie"
+  },
+  {
+    "rank": 866,
+    "name": "M Maroqi Abdul Jalil",
+    "login": "maroqijalil",
+    "contributions": 2817,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": "ichiro-its,KeerjainSH"
+  },
+  {
+    "rank": 867,
+    "name": "Athallah Muhammad Maajid",
+    "login": "athallahmaajid",
+    "contributions": 8,
+    "company": "",
+    "organizations": "Team-Up-Dev,bellshade,TarunaCode"
+  },
+  {
+    "rank": 868,
+    "name": "Caleb Tutty",
+    "login": "tuttinator",
+    "contributions": 1734,
+    "company": "",
+    "organizations": "opennewzealand,onebigvoice,aucklandruby,prettymint,rubynz,RubyCommotion,RailsGirlsAuckland,GovHackNZ,chatifai,nucon"
+  },
+  {
+    "rank": 869,
+    "name": "F̷N̷",
+    "login": "kawaii-ghost",
+    "contributions": 92,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 870,
+    "name": "Hasanal Bulkiah",
+    "login": "florienzh4x",
+    "contributions": 1,
+    "company": "bigbox.co.id",
+    "organizations": ""
+  },
+  {
+    "rank": 871,
+    "name": "Fatima Azzahro",
+    "login": "Fatimazza",
+    "contributions": 1607,
+    "company": "Ex Go-Jek Indonesia",
+    "organizations": ""
+  },
+  {
+    "rank": 872,
+    "name": "",
+    "login": "IronPinoy",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 873,
+    "name": "Ibnoe",
+    "login": "ibnoe",
+    "contributions": 0,
+    "company": "Pt Linkit360",
+    "organizations": ""
+  },
+  {
+    "rank": 874,
+    "name": "Zydhan Linnar Putra",
+    "login": "zydhanlinnar11",
+    "contributions": 1640,
+    "company": "Sepuluh Nopember Institute of Technology",
+    "organizations": "Algoritma-dan-Pemrograman-ITS"
+  },
+  {
+    "rank": 875,
+    "name": "Ma'ruf Ma'arij",
+    "login": "mrfzvx12",
+    "contributions": 50,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 876,
+    "name": "Qih ETH",
+    "login": "QihETH",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 877,
+    "name": "Rizky Luthfianto",
+    "login": "luthfianto",
+    "contributions": 34,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 878,
+    "name": "ahmadhasyim",
+    "login": "lordhasyim",
+    "contributions": 6,
+    "company": "Coffee Shop",
+    "organizations": ""
+  },
+  {
+    "rank": 879,
+    "name": "Depa Panjie Purnama",
+    "login": "depapp",
+    "contributions": 798,
+    "company": "Software Quality Assurance - @evermos",
+    "organizations": "PelatihanUID,evermos"
+  },
+  {
+    "rank": 880,
+    "name": "Iswanul Umam",
+    "login": "iswanulumam",
+    "contributions": 42,
+    "company": "Alterra Academy",
+    "organizations": ""
+  },
+  {
+    "rank": 881,
+    "name": "Andika Tulus Pangestu",
+    "login": "andikatuluspangestu",
+    "contributions": 438,
+    "company": "Universitas Bina Sarana Informatika",
+    "organizations": "siswakodingid"
+  },
+  {
+    "rank": 882,
+    "name": "Mekel Ilyasa",
+    "login": "retr00exe",
+    "contributions": 1761,
+    "company": "@VISKA-IO",
+    "organizations": "fossasia,NVIDIAGameWorks,VISKA-IO,0xd34db3ef,Captone-TA"
+  },
+  {
+    "rank": 883,
+    "name": "SHINTA",
+    "login": "shintanr",
+    "contributions": 183,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 884,
+    "name": "Muhammad Ghazali",
+    "login": "muhammadghazali",
+    "contributions": 788,
+    "company": "",
+    "organizations": "layanglayangmobile"
+  },
+  {
+    "rank": 885,
+    "name": "Muhammad Raqwan",
+    "login": "Rqwannn",
+    "contributions": 475,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 886,
+    "name": "Arya Javas Fatih",
+    "login": "aryajf",
+    "contributions": 56,
+    "company": "Digit Team",
+    "organizations": ""
+  },
+  {
+    "rank": 887,
+    "name": "I Putu Saputrayana",
+    "login": "iyansr",
+    "contributions": 1065,
+    "company": "@pintu-crypto",
+    "organizations": "Sultra-Programmer"
+  },
+  {
+    "rank": 888,
+    "name": "To My",
+    "login": "MyFRA",
+    "contributions": 1045,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 889,
+    "name": "Alif Ramadhan",
+    "login": "NnA301023",
+    "contributions": 135,
+    "company": "",
+    "organizations": "technoparkneskar"
+  },
+  {
+    "rank": 890,
+    "name": "Bakunya | Kirisaki Rem",
+    "login": "bakunya",
+    "contributions": 170,
+    "company": "Amikom Yogyakarta University",
+    "organizations": ""
+  },
+  {
+    "rank": 891,
+    "name": "Hendra Permana",
+    "login": "hynra",
+    "contributions": 30,
+    "company": "",
+    "organizations": "tmdgitb,lskk,kampusubl,itb-prd,TA-LSKK-2018,digitalcreativeasia"
+  },
+  {
+    "rank": 892,
+    "name": "Geek Dive",
+    "login": "geekdive",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 893,
+    "name": "Danes",
+    "login": "monkezmoney",
+    "contributions": 13,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 894,
+    "name": "Fajar Afriansh",
+    "login": "fajarafriansh",
+    "contributions": 3,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 895,
+    "name": "Maaz",
+    "login": "maazshakeel",
+    "contributions": 354,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 896,
+    "name": "Fery Wardiyanto",
+    "login": "feryardiant",
+    "contributions": 3833,
+    "company": "@creasico",
+    "organizations": "phpindonesia,projek-xyz,codeigniter-id"
+  },
+  {
+    "rank": 897,
+    "name": "Miftakhul A.",
+    "login": "miftaakhulanam",
+    "contributions": 171,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 898,
+    "name": "Aria Bishma",
+    "login": "ariabishma",
+    "contributions": 29,
+    "company": "NoesantaraCoders",
+    "organizations": "ai-id,majalengkadev,BugHunterID"
+  },
+  {
+    "rank": 899,
+    "name": "Steven",
+    "login": "johsteven",
+    "contributions": 0,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 900,
+    "name": "Haseo",
+    "login": "Haseo97",
+    "contributions": 136,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 901,
+    "name": "Mochamad Gufron",
+    "login": "mgufrone",
+    "contributions": 24,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 902,
+    "name": "A. Akbar Hidayat",
+    "login": "cod3beat",
+    "contributions": 1055,
+    "company": "@dicoding-dev",
+    "organizations": "dicoding-dev"
+  },
+  {
+    "rank": 903,
+    "name": "Syubban Fakhriya",
+    "login": "HellBus1",
+    "contributions": 312,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 904,
+    "name": "Badrus shoolehk",
+    "login": "badrus123",
+    "contributions": 25,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 905,
+    "name": "Fahri Firdausillah",
+    "login": "kaqfa",
+    "contributions": 49,
+    "company": "anyf",
+    "organizations": ""
+  },
+  {
+    "rank": 906,
+    "name": "Dicky Wahyudi",
+    "login": "Dicky-XD",
+    "contributions": 36,
+    "company": "Medan",
+    "organizations": ""
+  },
+  {
+    "rank": 907,
+    "name": "Andre Christoga Pramaditya",
+    "login": "drepram",
+    "contributions": 293,
+    "company": "@evilfactorylabs",
+    "organizations": "evilfactorylabs,forkpile,dustywarehouse,okkui"
+  },
+  {
+    "rank": 908,
+    "name": "Ahmad Thoriq Najahi",
+    "login": "najahiiii",
+    "contributions": 502,
+    "company": "@NusantaraDevs @chips-project",
+    "organizations": "omnirom,NgntdKernel,CyberAOSP-Project,KomodOS-Rom,Komodo-OS,chips-project,Nusantara-ROM,forbidden-realms"
+  },
+  {
+    "rank": 909,
+    "name": "M Syahrul Surya Putra",
+    "login": "msyahrulsp",
+    "contributions": 613,
+    "company": "Institut Teknologi Bandung",
+    "organizations": "WLC-ID"
+  },
+  {
+    "rank": 910,
+    "name": "Jeff Maruli",
+    "login": "xietsunzao",
+    "contributions": 4451,
+    "company": "",
+    "organizations": "csaworks,Bootcamp-STMIK-Mardira-Indonesia"
+  },
+  {
+    "rank": 911,
+    "name": "fahmi rizky nugraha",
+    "login": "gaiius",
+    "contributions": 7,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 912,
+    "name": "Tatas Fachrul",
+    "login": "tatasfachrul",
+    "contributions": 1037,
+    "company": "@Sinbad-B2B-Platform",
+    "organizations": "arkclassroom"
+  },
+  {
+    "rank": 913,
+    "name": "Mrlinkerrorsystem",
+    "login": "ahmadchen",
+    "contributions": 0,
+    "company": "@mrlinkerrorsystem",
+    "organizations": "BugHunterID,mrlinkerrorsystem"
+  },
+  {
+    "rank": 914,
+    "name": "Kamshory, MT",
+    "login": "kamshory",
+    "contributions": 906,
+    "company": "Kamshory Developer",
+    "organizations": ""
+  },
+  {
+    "rank": 915,
+    "name": "Aldo Wachyudi",
+    "login": "aldoKelvianto",
+    "contributions": 75,
+    "company": "@astronautsid",
+    "organizations": "Code4Nation"
+  },
+  {
+    "rank": 916,
+    "name": "Rades Pratama",
+    "login": "radespratama",
+    "contributions": 1898,
+    "company": "",
+    "organizations": "devplayhouse,INSTIKI-Developer-Club"
+  },
+  {
+    "rank": 917,
+    "name": "Azhe Kun",
+    "login": "azhe403",
+    "contributions": 828,
+    "company": "Kencot Mikir, Inc",
+    "organizations": "TeaInside,WinTenDev"
+  },
+  {
+    "rank": 918,
+    "name": "Izzeldin Addarda",
+    "login": "zelsaddr",
+    "contributions": 147,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 919,
+    "name": "Barnando Akbarto Hidayatullah",
+    "login": "xxidbr9",
+    "contributions": 752,
+    "company": "",
+    "organizations": "Anak-Spectator"
+  },
+  {
+    "rank": 920,
+    "name": "Alya Zalfa",
+    "login": "AlyaKagerou",
+    "contributions": 354,
+    "company": "Universitas Bina Sarana Informatika",
+    "organizations": ""
+  },
+  {
+    "rank": 921,
+    "name": "Alvinditya Saputra",
+    "login": "piinalpin",
+    "contributions": 139,
+    "company": "Mandrill Tech Sdn Bhd",
+    "organizations": ""
+  },
+  {
+    "rank": 922,
+    "name": "illvart",
+    "login": "illvart",
+    "contributions": 1397,
+    "company": "@kastaid",
+    "organizations": "radept,kastaid"
+  },
+  {
+    "rank": 923,
+    "name": "BMKG",
+    "login": "infoBMKG",
+    "contributions": 21,
+    "company": "Badan Meteorologi, Klimatologi, dan Geofisika",
+    "organizations": ""
+  },
+  {
+    "rank": 924,
+    "name": "Abdul Malik",
+    "login": "up2dul",
+    "contributions": 1201,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 925,
+    "name": "Ady Rahmat MA",
+    "login": "ngurajeka",
+    "contributions": 1433,
+    "company": "@valutac",
+    "organizations": "valutac,BugisDev,KelasX,GopherMks,inovasiteknologi"
+  },
+  {
+    "rank": 926,
+    "name": "Putra Krishna",
+    "login": "naptr",
+    "contributions": 300,
+    "company": "@pondok-programmer",
+    "organizations": ""
+  },
+  {
+    "rank": 927,
+    "name": "Jimmy Rengga",
+    "login": "jimmyrengga",
+    "contributions": 0,
+    "company": "@artivisi",
+    "organizations": ""
+  },
+  {
+    "rank": 928,
+    "name": "Efendi Hariyadi | Abu Samman Alfariz",
+    "login": "sm-alfariz",
+    "contributions": 30,
+    "company": "freelance",
+    "organizations": ""
+  },
+  {
+    "rank": 929,
+    "name": "Mohammad Fadhil Rasyidin Parinduri",
+    "login": "FadhilRasyidin",
+    "contributions": 175,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 930,
+    "name": "",
+    "login": "mukhlisakbr",
+    "contributions": 433,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 931,
+    "name": "Egar Rizki",
+    "login": "ch0c01dxyz",
+    "contributions": 9,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 932,
+    "name": "Fazt Academy",
+    "login": "fazztrack",
+    "contributions": 7,
+    "company": "Fazztrack",
+    "organizations": ""
+  },
+  {
+    "rank": 933,
+    "name": "Muhammad Satrio Wicaksono",
+    "login": "muhsatrio",
+    "contributions": 81,
+    "company": "@bliblidotcom",
+    "organizations": ""
+  },
+  {
+    "rank": 934,
+    "name": "herudi",
+    "login": "herudi",
+    "contributions": 337,
+    "company": "Enigma",
+    "organizations": ""
+  },
+  {
+    "rank": 935,
+    "name": "Aqshol Afid",
+    "login": "Aqshola",
+    "contributions": 237,
+    "company": "Own",
+    "organizations": ""
+  },
+  {
+    "rank": 936,
+    "name": "Samuel B. Jeffersen",
+    "login": "winklesen",
+    "contributions": 714,
+    "company": "MNC Play",
+    "organizations": "hrisplay"
+  },
+  {
+    "rank": 937,
+    "name": "Andhitia Rama",
+    "login": "andhit-r",
+    "contributions": 1142,
+    "company": "@open-synergy @simetri-sinergi-id",
+    "organizations": "open-synergy,OCA"
+  },
+  {
+    "rank": 938,
+    "name": "Mohammad Fahmi",
+    "login": "MohFahmi27",
+    "contributions": 579,
+    "company": "@ERP-Nusantara",
+    "organizations": ""
+  },
+  {
+    "rank": 939,
+    "name": "Mochamad Iqbal Dwi Cahyo",
+    "login": "mochadwi",
+    "contributions": 864,
+    "company": "@sampingantech",
+    "organizations": "sampingantech"
+  },
+  {
+    "rank": 940,
+    "name": "Rezky Aulia",
+    "login": "rezkyauliapratama",
+    "contributions": 343,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 941,
+    "name": "Shulhan",
+    "login": "shuLhan",
+    "contributions": 623,
+    "company": "@geeckotech",
+    "organizations": "x10c,golang-id"
+  },
+  {
+    "rank": 942,
+    "name": "Mr.ChangFB",
+    "login": "ChangzFB",
+    "contributions": 73,
+    "company": "SAYA BUKAN HACKER™✓",
+    "organizations": ""
+  },
+  {
+    "rank": 943,
+    "name": "Fajar Susilo",
+    "login": "dhenfie",
+    "contributions": 179,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 944,
+    "name": "Marcellino Chris O'Vara",
+    "login": "MarcellinoCO",
+    "contributions": 799,
+    "company": "Universitas Indonesia",
+    "organizations": "Greenstand,Educare-Fasilkom,Diriku-ID,Unjuk-Rasa-2021,Pesta-Rakyat-Fasilkom,Rumah-Renov,crowded-report"
+  },
+  {
+    "rank": 945,
+    "name": "Kresna Sucandra",
+    "login": "SHA888",
+    "contributions": 1000,
+    "company": "",
+    "organizations": "zero-to-mastery,chingu-voyages,chocolatenetwork,Polkadot-DevCamp-2022,Polkadot-Sanctuary,MandalaChain,Cyborg-Network"
+  },
+  {
+    "rank": 946,
+    "name": "Muhammad Razin Syakib",
+    "login": "RazinSyakib43",
+    "contributions": 834,
+    "company": "STMIK Sinar Nusantara",
+    "organizations": ""
+  },
+  {
+    "rank": 947,
+    "name": "Jihadul Akbar",
+    "login": "jihadul4kbar",
+    "contributions": 3,
+    "company": "",
+    "organizations": "PW-TI,WF-TI,FJS-SI"
+  },
+  {
+    "rank": 948,
+    "name": "MicroClone",
+    "login": "tanwirulqulub999",
+    "contributions": 0,
+    "company": "@BlackHoleSecurity",
+    "organizations": "BlackHoleSecurity,System-Server-Security"
+  },
+  {
+    "rank": 949,
+    "name": "Nur Askiah",
+    "login": "nuraskiah",
+    "contributions": 641,
+    "company": "",
+    "organizations": "bellshade,kontenbase,mejik-dev"
+  },
+  {
+    "rank": 950,
+    "name": "Yasir Haq",
+    "login": "yasirrhaq",
+    "contributions": 95,
+    "company": "@raioncommunityfilkomub",
+    "organizations": ""
+  },
+  {
+    "rank": 951,
+    "name": "Galihsaptahadi",
+    "login": "Galihsaptahadi",
+    "contributions": 8,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 952,
+    "name": "Abadi Suryo",
+    "login": "abadisurio",
+    "contributions": 415,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 953,
+    "name": "Qassie",
+    "login": "qassandrach",
+    "contributions": 3608,
+    "company": "",
+    "organizations": "tokopedia"
+  },
+  {
+    "rank": 954,
+    "name": "Irfan Maulana (@mazipan)",
+    "login": "irfan-maulana-tkp",
+    "contributions": 0,
+    "company": "@tokopedia",
+    "organizations": ""
+  },
+  {
+    "rank": 955,
+    "name": "ay •.• あなたは永遠に ∎",
+    "login": "uscyz",
+    "contributions": 1,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 956,
+    "name": "Sakti Dwi Cahyono",
+    "login": "sakti",
+    "contributions": 1043,
+    "company": "",
+    "organizations": "id-python,jazzband"
+  },
+  {
+    "rank": 957,
+    "name": "jemblongan valley",
+    "login": "jemblonganvalley",
+    "contributions": 113,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 958,
+    "name": "Muhamad Rijal",
+    "login": "euxzy",
+    "contributions": 2180,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 959,
+    "name": "Adzin Zhalifunnas",
+    "login": "adzinzhalifunnas",
+    "contributions": 54,
+    "company": "Hello World",
+    "organizations": ""
+  },
+  {
+    "rank": 960,
+    "name": "Fuadit Muhammad",
+    "login": "fuaditrockz",
+    "contributions": 185,
+    "company": "Saga Studio",
+    "organizations": ""
+  },
+  {
+    "rank": 961,
+    "name": "Arifian Saputra",
+    "login": "arifian853",
+    "contributions": 300,
+    "company": "Universitas Maritim Raja Ali Haji",
+    "organizations": ""
+  },
+  {
+    "rank": 962,
+    "name": "Jojo Arianto",
+    "login": "jojoarianto",
+    "contributions": 0,
+    "company": "PT Surabaya Digital Indie",
+    "organizations": ""
+  },
+  {
+    "rank": 963,
+    "name": "Bahyu Sanciko",
+    "login": "bahyusanciko",
+    "contributions": 1860,
+    "company": "PT. SANTINILUWANSA LESTARI",
+    "organizations": "it-santini,cari-teknisi"
+  },
+  {
+    "rank": 964,
+    "name": "Ferdiansyah",
+    "login": "ferdiansyah0611",
+    "contributions": 528,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 965,
+    "name": "Emre Ceyhan",
+    "login": "aecceyhan",
+    "contributions": 1870,
+    "company": "Paybling",
+    "organizations": "StartupCentrum,TemplayCo,Comarbot"
+  },
+  {
+    "rank": 966,
+    "name": "Fahmi Irsyad Khairi",
+    "login": "fahmiirsyadk",
+    "contributions": 540,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 967,
+    "name": "LathifaItqon",
+    "login": "1234la",
+    "contributions": 7,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": ""
+  },
+  {
+    "rank": 968,
+    "name": "Okta Arif Cahyawan",
+    "login": "okutasan",
+    "contributions": 99,
+    "company": "@tealinuxos @doscom",
+    "organizations": "gohugoid"
+  },
+  {
+    "rank": 969,
+    "name": "Rabih Utomo",
+    "login": "RobyCigar",
+    "contributions": 968,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 970,
+    "name": "Khairul Hidayat",
+    "login": "khairul169",
+    "contributions": 220,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 971,
+    "name": "Galih Anggoro Prasetya",
+    "login": "galihap76",
+    "contributions": 545,
+    "company": "De Technocrats",
+    "organizations": "De-Technocrats,dukuhwaru-dev"
+  },
+  {
+    "rank": 972,
+    "name": "Kurnia Cahya Febryanto",
+    "login": "kurniacf",
+    "contributions": 1128,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": "Manajemen-Cerdas-Informasi"
+  },
+  {
+    "rank": 973,
+    "name": "Morgen Sudyanto",
+    "login": "moondemon68",
+    "contributions": 32,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 974,
+    "name": "Teuku Nanda Saputra",
+    "login": "nandaBlankon",
+    "contributions": 187,
+    "company": "Fakultas Teknik Informatika",
+    "organizations": ""
+  },
+  {
+    "rank": 975,
+    "name": "Muhammad Rivki",
+    "login": "mikqi",
+    "contributions": 581,
+    "company": "",
+    "organizations": "nusadata,denoland-id"
+  },
+  {
+    "rank": 976,
+    "name": "Calvin Janitra",
+    "login": "calvinjanitra",
+    "contributions": 249,
+    "company": "Institut Teknologi Sepuluh Nopember",
+    "organizations": ""
+  },
+  {
+    "rank": 977,
+    "name": "Jution Candra Kirana",
+    "login": "jutionck",
+    "contributions": 381,
+    "company": "mipdevp",
+    "organizations": "ohaisii"
+  },
+  {
+    "rank": 978,
+    "name": "Julian Christian Anderson",
+    "login": "julianjca",
+    "contributions": 1117,
+    "company": "@latecheckout",
+    "organizations": ""
+  },
+  {
+    "rank": 979,
+    "name": "Afrizal Muhammad Yasin",
+    "login": "afrizal423",
+    "contributions": 407,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 980,
+    "name": "rinaldibaderan",
+    "login": "rinaldibaderan",
+    "contributions": 5,
+    "company": "",
+    "organizations": ""
+  },
+  {
+    "rank": 981,
+    "name": "Alvian D.Q.",
+    "login": "Alviannn",
+    "contributions": 483,
+    "company": "BINUS@Bandung",
+    "organizations": "BNCC-Bandung,Hydra-Gang"
+  },
+  {
+    "rank": 982,
+    "name": "Ghazi Muharam",
+    "login": "ghazimuharam",
+    "contributions": 17,
+    "company": "@Tokopedia",
+    "organizations": ""
+  },
+  {
+    "rank": 983,
+    "name": "Darvin Sinaga",
+    "login": "nagacoder",
+    "contributions": 708,
+    "company": "",
+    "organizations": "TeaInside"
+  },
+  {
+    "rank": 984,
+    "name": "Wiwit Rifa'i",
+    "login": "wiwitrifai",
+    "contributions": 1,
+    "company": "",
+    "organizations": "cp-itb,IEEEXtreme"
+  },
+  {
+    "rank": 985,
+    "name": "Didik Maulana Ardiansyah",
+    "login": "didik-maulana",
+    "contributions": 8,
+    "company": "Gravel",
+    "organizations": ""
+  },
+  {
+    "rank": 986,
+    "name": "Galih Gusti Priatna",
+    "login": "wulan17",
+    "contributions": 348,
+    "company": "",
+    "organizations": "xiaomi-mt6765,Komodo-OS,Nusantara-ROM,Mayuri-Chan"
+  },
+  {
+    "rank": 987,
+    "name": "Adiyat Mubarak",
+    "login": "Keda87",
+    "contributions": 756,
+    "company": "@efishery",
+    "organizations": ""
+  },
+  {
+    "rank": 988,
+    "name": "",
+    "login": "morizkay",
+    "contributions": 32,
+    "company": "Tictag",
+    "organizations": "hammer-code"
+  },
+  {
+    "rank": 989,
+    "name": "ΛDΛN",
+    "login": "fardhanardhi",
+    "contributions": 2,
+    "company": "@wrideveloper",
+    "organizations": "wrideveloper"
+  },
+  {
+    "rank": 990,
+    "name": "Nuruddin Ashr",
+    "login": "uudashr",
+    "contributions": 87,
+    "company": "",
+    "organizations": "golangci"
+  },
+  {
+    "rank": 991,
+    "name": "Noercholis",
+    "login": "nubuntu",
+    "contributions": 30,
+    "company": "Nu Creative",
+    "organizations": ""
+  }
+]
