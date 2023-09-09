@@ -19608,15 +19608,5 @@
     "company": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18300552?u=ce80330ec743be4761a0a0df095f4c2ec2b79feb&v=4",
     "contributionRank": 1961
-  },
-  {
-    "followerRank": "followerRank",
-    "name": "name",
-    "username": "username",
-    "followers": "followers",
-    "contributions": "contributions",
-    "company": "company",
-    "avatarUrl": "avatarUrl",
-    "contributionRank": "contributionRank"
   }
 ]
